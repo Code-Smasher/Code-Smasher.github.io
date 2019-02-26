@@ -1,6 +1,7 @@
-<CC Data Log>
-<Total Games>517</Total Games>
-<Total Players>3462</Total Players>
+<?xml version="1.0"?>
+<CC-Data-Log>
+<Total-Games>517</Total-Games>
+<Total-Players>3462</Total-Players>
 <CTF>337 (65%)</CTF>
 <Moon>97 (18%)</Moon>
 <Hunter>86 (16%)</Hunter>
@@ -13,2251 +14,2257 @@
 <Sentry>
 <Used>555 (16%)</Used>
 <MVP>180 (34%)</MVP>
-<Avg. Score>1364</Avg. Score>
-<Avg. Score MVP>2503</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6167</Avg. Damage>
-<Avg. Damage MVP>11258</Avg. Damage MVP>
-<Avg. Taken>5701</Avg. Taken>
-<Avg. Taken MVP>7870</Avg. Taken MVP>
-<Avg. Damage>6167</Avg. Damage>
-<Avg. Damage MVP>11258</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>212</Total Flags>
-<Total Flags MVP>287</Total Flags MVP>
+<Avg.-Score>1364</Avg.-Score>
+<Avg.-Score-MVP>2503</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6167</Avg.-Damage>
+<Avg.-Damage-MVP>11258</Avg.-Damage-MVP>
+<Avg.-Taken>5701</Avg.-Taken>
+<Avg.-Taken-MVP>7870</Avg.-Taken-MVP>
+<Avg.-Damage>6167</Avg.-Damage>
+<Avg.-Damage-MVP>11258</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>212</Total-Flags>
+<Total-Flags-MVP>287</Total-Flags-MVP>
 </Sentry>
 <Precursor>
 <Used>121 (3%)</Used>
 <MVP>11 (2%)</MVP>
-<Avg. Score>1558</Avg. Score>
-<Avg. Score MVP>2712</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>9102</Avg. Damage>
-<Avg. Damage MVP>15543</Avg. Damage MVP>
-<Avg. Taken>12291</Avg. Taken>
-<Avg. Taken MVP>12289</Avg. Taken MVP>
-<Avg. Damage>9102</Avg. Damage>
-<Avg. Damage MVP>15543</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>6</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
+<Avg.-Score>1558</Avg.-Score>
+<Avg.-Score-MVP>2712</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>9102</Avg.-Damage>
+<Avg.-Damage-MVP>15543</Avg.-Damage-MVP>
+<Avg.-Taken>12291</Avg.-Taken>
+<Avg.-Taken-MVP>12289</Avg.-Taken-MVP>
+<Avg.-Damage>9102</Avg.-Damage>
+<Avg.-Damage-MVP>15543</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>6</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
 </Precursor>
 <Aquila>
 <Used>87 (2%)</Used>
 <MVP>13 (2%)</MVP>
-<Avg. Score>1310</Avg. Score>
-<Avg. Score MVP>2185</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>6850</Avg. Damage>
-<Avg. Damage MVP>17767</Avg. Damage MVP>
-<Avg. Taken>5830</Avg. Taken>
-<Avg. Taken MVP>7079</Avg. Taken MVP>
-<Avg. Damage>6850</Avg. Damage>
-<Avg. Damage MVP>17767</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>21</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
+<Avg.-Score>1310</Avg.-Score>
+<Avg.-Score-MVP>2185</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>6850</Avg.-Damage>
+<Avg.-Damage-MVP>17767</Avg.-Damage-MVP>
+<Avg.-Taken>5830</Avg.-Taken>
+<Avg.-Taken-MVP>7079</Avg.-Taken-MVP>
+<Avg.-Damage>6850</Avg.-Damage>
+<Avg.-Damage-MVP>17767</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>21</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
 </Aquila>
 <Turtle>
 <Used>159 (4%)</Used>
 <MVP>9 (1%)</MVP>
-<Avg. Score>1843</Avg. Score>
-<Avg. Score MVP>4224</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>7017</Avg. Damage>
-<Avg. Damage MVP>21169</Avg. Damage MVP>
-<Avg. Taken>6929</Avg. Taken>
-<Avg. Taken MVP>11255</Avg. Taken MVP>
-<Avg. Damage>7017</Avg. Damage>
-<Avg. Damage MVP>21169</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>8</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
+<Avg.-Score>1843</Avg.-Score>
+<Avg.-Score-MVP>4224</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>7017</Avg.-Damage>
+<Avg.-Damage-MVP>21169</Avg.-Damage-MVP>
+<Avg.-Taken>6929</Avg.-Taken>
+<Avg.-Taken-MVP>11255</Avg.-Taken-MVP>
+<Avg.-Damage>7017</Avg.-Damage>
+<Avg.-Damage-MVP>21169</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>8</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
 </Turtle>
 <Commando>
 <Used>49 (1%)</Used>
 <MVP>10 (1%)</MVP>
-<Avg. Score>1340</Avg. Score>
-<Avg. Score MVP>2320</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>5048</Avg. Damage>
-<Avg. Damage MVP>10004</Avg. Damage MVP>
-<Avg. Taken>7392</Avg. Taken>
-<Avg. Taken MVP>7869</Avg. Taken MVP>
-<Avg. Damage>5048</Avg. Damage>
-<Avg. Damage MVP>10004</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>22</Total Flags>
-<Total Flags MVP>15</Total Flags MVP>
+<Avg.-Score>1340</Avg.-Score>
+<Avg.-Score-MVP>2320</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>5048</Avg.-Damage>
+<Avg.-Damage-MVP>10004</Avg.-Damage-MVP>
+<Avg.-Taken>7392</Avg.-Taken>
+<Avg.-Taken-MVP>7869</Avg.-Taken-MVP>
+<Avg.-Damage>5048</Avg.-Damage>
+<Avg.-Damage-MVP>10004</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>22</Total-Flags>
+<Total-Flags-MVP>15</Total-Flags-MVP>
 </Commando>
 <Hurricane>
 <Used>141 (4%)</Used>
 <MVP>15 (2%)</MVP>
-<Avg. Score>1535</Avg. Score>
-<Avg. Score MVP>2465</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>7612</Avg. Damage>
-<Avg. Damage MVP>16696</Avg. Damage MVP>
-<Avg. Taken>7262</Avg. Taken>
-<Avg. Taken MVP>9648</Avg. Taken MVP>
-<Avg. Damage>7612</Avg. Damage>
-<Avg. Damage MVP>16696</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>27</Total Flags>
-<Total Flags MVP>9</Total Flags MVP>
+<Avg.-Score>1535</Avg.-Score>
+<Avg.-Score-MVP>2465</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>7612</Avg.-Damage>
+<Avg.-Damage-MVP>16696</Avg.-Damage-MVP>
+<Avg.-Taken>7262</Avg.-Taken>
+<Avg.-Taken-MVP>9648</Avg.-Taken-MVP>
+<Avg.-Damage>7612</Avg.-Damage>
+<Avg.-Damage-MVP>16696</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>27</Total-Flags>
+<Total-Flags-MVP>9</Total-Flags-MVP>
 </Hurricane>
 <Scorpion>
 <Used>545 (15%)</Used>
 <MVP>83 (16%)</MVP>
-<Avg. Score>1607</Avg. Score>
-<Avg. Score MVP>2453</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6213</Avg. Damage>
-<Avg. Damage MVP>13253</Avg. Damage MVP>
-<Avg. Taken>5192</Avg. Taken>
-<Avg. Taken MVP>6825</Avg. Taken MVP>
-<Avg. Damage>6213</Avg. Damage>
-<Avg. Damage MVP>13253</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>151</Total Flags>
-<Total Flags MVP>84</Total Flags MVP>
+<Avg.-Score>1607</Avg.-Score>
+<Avg.-Score-MVP>2453</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6213</Avg.-Damage>
+<Avg.-Damage-MVP>13253</Avg.-Damage-MVP>
+<Avg.-Taken>5192</Avg.-Taken>
+<Avg.-Taken-MVP>6825</Avg.-Taken-MVP>
+<Avg.-Damage>6213</Avg.-Damage>
+<Avg.-Damage-MVP>13253</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>151</Total-Flags>
+<Total-Flags-MVP>84</Total-Flags-MVP>
 </Scorpion>
 <Crusher>
 <Used>306 (8%)</Used>
 <MVP>38 (7%)</MVP>
-<Avg. Score>2223</Avg. Score>
-<Avg. Score MVP>3366</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>7150</Avg. Damage>
-<Avg. Damage MVP>12337</Avg. Damage MVP>
-<Avg. Taken>9383</Avg. Taken>
-<Avg. Taken MVP>10408</Avg. Taken MVP>
-<Avg. Damage>7150</Avg. Damage>
-<Avg. Damage MVP>12337</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>100</Total Flags>
-<Total Flags MVP>55</Total Flags MVP>
+<Avg.-Score>2223</Avg.-Score>
+<Avg.-Score-MVP>3366</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>7150</Avg.-Damage>
+<Avg.-Damage-MVP>12337</Avg.-Damage-MVP>
+<Avg.-Taken>9383</Avg.-Taken>
+<Avg.-Taken-MVP>10408</Avg.-Taken-MVP>
+<Avg.-Damage>7150</Avg.-Damage>
+<Avg.-Damage-MVP>12337</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>100</Total-Flags>
+<Total-Flags-MVP>55</Total-Flags-MVP>
 </Crusher>
 <Bertha>
 <Used>554 (16%)</Used>
 <MVP>51 (9%)</MVP>
-<Avg. Score>1904</Avg. Score>
-<Avg. Score MVP>3728</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>9739</Avg. Damage>
-<Avg. Damage MVP>22016</Avg. Damage MVP>
-<Avg. Taken>10580</Avg. Taken>
-<Avg. Taken MVP>16982</Avg. Taken MVP>
-<Avg. Damage>9739</Avg. Damage>
-<Avg. Damage MVP>22016</Avg. Damage MVP>
-<Avg. Deaths>3</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>0</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
+<Avg.-Score>1904</Avg.-Score>
+<Avg.-Score-MVP>3728</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>9739</Avg.-Damage>
+<Avg.-Damage-MVP>22016</Avg.-Damage-MVP>
+<Avg.-Taken>10580</Avg.-Taken>
+<Avg.-Taken-MVP>16982</Avg.-Taken-MVP>
+<Avg.-Damage>9739</Avg.-Damage>
+<Avg.-Damage-MVP>22016</Avg.-Damage-MVP>
+<Avg.-Deaths>3</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>0</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
 </Bertha>
 <Orbital>
 <Used>388 (11%)</Used>
 <MVP>43 (8%)</MVP>
-<Avg. Score>1765</Avg. Score>
-<Avg. Score MVP>2595</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>6771</Avg. Damage>
-<Avg. Damage MVP>15093</Avg. Damage MVP>
-<Avg. Taken>7060</Avg. Taken>
-<Avg. Taken MVP>7875</Avg. Taken MVP>
-<Avg. Damage>6771</Avg. Damage>
-<Avg. Damage MVP>15093</Avg. Damage MVP>
-<Avg. Deaths>9</Avg. Deaths>
-<Avg. Deaths MVP>11</Avg. Deaths MVP>
-<Total Flags>127</Total Flags>
-<Total Flags MVP>22</Total Flags MVP>
+<Avg.-Score>1765</Avg.-Score>
+<Avg.-Score-MVP>2595</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>6771</Avg.-Damage>
+<Avg.-Damage-MVP>15093</Avg.-Damage-MVP>
+<Avg.-Taken>7060</Avg.-Taken>
+<Avg.-Taken-MVP>7875</Avg.-Taken-MVP>
+<Avg.-Damage>6771</Avg.-Damage>
+<Avg.-Damage-MVP>15093</Avg.-Damage-MVP>
+<Avg.-Deaths>9</Avg.-Deaths>
+<Avg.-Deaths-MVP>11</Avg.-Deaths-MVP>
+<Total-Flags>127</Total-Flags>
+<Total-Flags-MVP>22</Total-Flags-MVP>
 </Orbital>
 <Valhalla>
 <Used>353 (10%)</Used>
 <MVP>41 (7%)</MVP>
-<Avg. Score>1704</Avg. Score>
-<Avg. Score MVP>3347</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8664</Avg. Damage>
-<Avg. Damage MVP>19040</Avg. Damage MVP>
-<Avg. Taken>11175</Avg. Taken>
-<Avg. Taken MVP>14952</Avg. Taken MVP>
-<Avg. Damage>8664</Avg. Damage>
-<Avg. Damage MVP>19040</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>17</Total Flags>
-<Total Flags MVP>10</Total Flags MVP>
+<Avg.-Score>1704</Avg.-Score>
+<Avg.-Score-MVP>3347</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8664</Avg.-Damage>
+<Avg.-Damage-MVP>19040</Avg.-Damage-MVP>
+<Avg.-Taken>11175</Avg.-Taken>
+<Avg.-Taken-MVP>14952</Avg.-Taken-MVP>
+<Avg.-Damage>8664</Avg.-Damage>
+<Avg.-Damage-MVP>19040</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>17</Total-Flags>
+<Total-Flags-MVP>10</Total-Flags-MVP>
 </Valhalla>
 <Babel>
 <Used>187 (5%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1653</Avg. Score>
-<Avg. Score MVP>2963</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>10149</Avg. Damage>
-<Avg. Damage MVP>23949</Avg. Damage MVP>
-<Avg. Taken>17935</Avg. Taken>
-<Avg. Taken MVP>25658</Avg. Taken MVP>
-<Avg. Damage>10149</Avg. Damage>
-<Avg. Damage MVP>23949</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>6</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
+<Avg.-Score>1653</Avg.-Score>
+<Avg.-Score-MVP>2963</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>10149</Avg.-Damage>
+<Avg.-Damage-MVP>23949</Avg.-Damage-MVP>
+<Avg.-Taken>17935</Avg.-Taken>
+<Avg.-Taken-MVP>25658</Avg.-Taken-MVP>
+<Avg.-Damage>10149</Avg.-Damage>
+<Avg.-Damage-MVP>23949</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>6</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
 </Babel>
-</Chassis>/n<Heads>
-<Visor Head>
+</Chassis>
+<Heads>
+<Visor-Head>
 <Used>208 (6%)</Used>
 <MVP>90 (17%)</MVP>
-<Avg. Score>1008</Avg. Score>
-<Avg. Score MVP>2538</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>5520</Avg. Damage>
-<Avg. Damage MVP>13872</Avg. Damage MVP>
-<Avg. Taken>5023</Avg. Taken>
-<Avg. Taken MVP>9426</Avg. Taken MVP>
-<Avg. Damage>5520</Avg. Damage>
-<Avg. Damage MVP>13872</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>84</Total Flags>
-<Total Flags MVP>132</Total Flags MVP>
-</Visor Head>
-<Shield Head>
+<Avg.-Score>1008</Avg.-Score>
+<Avg.-Score-MVP>2538</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>5520</Avg.-Damage>
+<Avg.-Damage-MVP>13872</Avg.-Damage-MVP>
+<Avg.-Taken>5023</Avg.-Taken>
+<Avg.-Taken-MVP>9426</Avg.-Taken-MVP>
+<Avg.-Damage>5520</Avg.-Damage>
+<Avg.-Damage-MVP>13872</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>84</Total-Flags>
+<Total-Flags-MVP>132</Total-Flags-MVP>
+</Visor-Head>
+<Shield-Head>
 <Used>77 (2%)</Used>
 <MVP>8 (1%)</MVP>
-<Avg. Score>1306</Avg. Score>
-<Avg. Score MVP>2027</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>9291</Avg. Damage>
-<Avg. Damage MVP>19485</Avg. Damage MVP>
-<Avg. Taken>9502</Avg. Taken>
-<Avg. Taken MVP>16135</Avg. Taken MVP>
-<Avg. Damage>9291</Avg. Damage>
-<Avg. Damage MVP>19485</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>5</Total Flags>
-<Total Flags MVP>2</Total Flags MVP>
-</Shield Head>
-<Scout Head>
+<Avg.-Score>1306</Avg.-Score>
+<Avg.-Score-MVP>2027</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>9291</Avg.-Damage>
+<Avg.-Damage-MVP>19485</Avg.-Damage-MVP>
+<Avg.-Taken>9502</Avg.-Taken>
+<Avg.-Taken-MVP>16135</Avg.-Taken-MVP>
+<Avg.-Damage>9291</Avg.-Damage>
+<Avg.-Damage-MVP>19485</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>5</Total-Flags>
+<Total-Flags-MVP>2</Total-Flags-MVP>
+</Shield-Head>
+<Scout-Head>
 <Used>922 (26%)</Used>
 <MVP>165 (31%)</MVP>
-<Avg. Score>1863</Avg. Score>
-<Avg. Score MVP>2637</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>6244</Avg. Damage>
-<Avg. Damage MVP>9653</Avg. Damage MVP>
-<Avg. Taken>6787</Avg. Taken>
-<Avg. Taken MVP>6135</Avg. Taken MVP>
-<Avg. Damage>6244</Avg. Damage>
-<Avg. Damage MVP>9653</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>374</Total Flags>
-<Total Flags MVP>240</Total Flags MVP>
-</Scout Head>
-<Tactical Maw>
+<Avg.-Score>1863</Avg.-Score>
+<Avg.-Score-MVP>2637</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>6244</Avg.-Damage>
+<Avg.-Damage-MVP>9653</Avg.-Damage-MVP>
+<Avg.-Taken>6787</Avg.-Taken>
+<Avg.-Taken-MVP>6135</Avg.-Taken-MVP>
+<Avg.-Damage>6244</Avg.-Damage>
+<Avg.-Damage-MVP>9653</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>374</Total-Flags>
+<Total-Flags-MVP>240</Total-Flags-MVP>
+</Scout-Head>
+<Tactical-Maw>
 <Used>151 (4%)</Used>
 <MVP>26 (5%)</MVP>
-<Avg. Score>1792</Avg. Score>
-<Avg. Score MVP>4229</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8724</Avg. Damage>
-<Avg. Damage MVP>20070</Avg. Damage MVP>
-<Avg. Taken>9734</Avg. Taken>
-<Avg. Taken MVP>12426</Avg. Taken MVP>
-<Avg. Damage>8724</Avg. Damage>
-<Avg. Damage MVP>20070</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>7</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Tactical Maw>
-<Oracle Head>
+<Avg.-Score>1792</Avg.-Score>
+<Avg.-Score-MVP>4229</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8724</Avg.-Damage>
+<Avg.-Damage-MVP>20070</Avg.-Damage-MVP>
+<Avg.-Taken>9734</Avg.-Taken>
+<Avg.-Taken-MVP>12426</Avg.-Taken-MVP>
+<Avg.-Damage>8724</Avg.-Damage>
+<Avg.-Damage-MVP>20070</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>7</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Tactical-Maw>
+<Oracle-Head>
 <Used>303 (8%)</Used>
 <MVP>19 (3%)</MVP>
-<Avg. Score>1595</Avg. Score>
-<Avg. Score MVP>2530</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>7287</Avg. Damage>
-<Avg. Damage MVP>15065</Avg. Damage MVP>
-<Avg. Taken>7586</Avg. Taken>
-<Avg. Taken MVP>8731</Avg. Taken MVP>
-<Avg. Damage>7287</Avg. Damage>
-<Avg. Damage MVP>15065</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>61</Total Flags>
-<Total Flags MVP>19</Total Flags MVP>
-</Oracle Head>
-<Reticulan Head>
+<Avg.-Score>1595</Avg.-Score>
+<Avg.-Score-MVP>2530</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>7287</Avg.-Damage>
+<Avg.-Damage-MVP>15065</Avg.-Damage-MVP>
+<Avg.-Taken>7586</Avg.-Taken>
+<Avg.-Taken-MVP>8731</Avg.-Taken-MVP>
+<Avg.-Damage>7287</Avg.-Damage>
+<Avg.-Damage-MVP>15065</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>61</Total-Flags>
+<Total-Flags-MVP>19</Total-Flags-MVP>
+</Oracle-Head>
+<Reticulan-Head>
 <Used>138 (3%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1749</Avg. Score>
-<Avg. Score MVP>3099</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6836</Avg. Damage>
-<Avg. Damage MVP>12167</Avg. Damage MVP>
-<Avg. Taken>7821</Avg. Taken>
-<Avg. Taken MVP>10037</Avg. Taken MVP>
-<Avg. Damage>6836</Avg. Damage>
-<Avg. Damage MVP>12167</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>47</Total Flags>
-<Total Flags MVP>36</Total Flags MVP>
-</Reticulan Head>
-<Croc Head>
+<Avg.-Score>1749</Avg.-Score>
+<Avg.-Score-MVP>3099</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6836</Avg.-Damage>
+<Avg.-Damage-MVP>12167</Avg.-Damage-MVP>
+<Avg.-Taken>7821</Avg.-Taken>
+<Avg.-Taken-MVP>10037</Avg.-Taken-MVP>
+<Avg.-Damage>6836</Avg.-Damage>
+<Avg.-Damage-MVP>12167</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>47</Total-Flags>
+<Total-Flags-MVP>36</Total-Flags-MVP>
+</Reticulan-Head>
+<Croc-Head>
 <Used>300 (8%)</Used>
 <MVP>24 (4%)</MVP>
-<Avg. Score>1965</Avg. Score>
-<Avg. Score MVP>4397</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>7754</Avg. Damage>
-<Avg. Damage MVP>18948</Avg. Damage MVP>
-<Avg. Taken>8260</Avg. Taken>
-<Avg. Taken MVP>13063</Avg. Taken MVP>
-<Avg. Damage>7754</Avg. Damage>
-<Avg. Damage MVP>18948</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>14</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Croc Head>
-<Minotaur Head>
+<Avg.-Score>1965</Avg.-Score>
+<Avg.-Score-MVP>4397</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>7754</Avg.-Damage>
+<Avg.-Damage-MVP>18948</Avg.-Damage-MVP>
+<Avg.-Taken>8260</Avg.-Taken>
+<Avg.-Taken-MVP>13063</Avg.-Taken-MVP>
+<Avg.-Damage>7754</Avg.-Damage>
+<Avg.-Damage-MVP>18948</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>14</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Croc-Head>
+<Minotaur-Head>
 <Used>52 (1%)</Used>
 <MVP>2 (0%)</MVP>
-<Avg. Score>1940</Avg. Score>
-<Avg. Score MVP>3618</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>9297</Avg. Damage>
-<Avg. Damage MVP>13735</Avg. Damage MVP>
-<Avg. Taken>12890</Avg. Taken>
-<Avg. Taken MVP>12949</Avg. Taken MVP>
-<Avg. Damage>9297</Avg. Damage>
-<Avg. Damage MVP>13735</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>2</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Minotaur Head>
-<Samurai Head>
+<Avg.-Score>1940</Avg.-Score>
+<Avg.-Score-MVP>3618</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>9297</Avg.-Damage>
+<Avg.-Damage-MVP>13735</Avg.-Damage-MVP>
+<Avg.-Taken>12890</Avg.-Taken>
+<Avg.-Taken-MVP>12949</Avg.-Taken-MVP>
+<Avg.-Damage>9297</Avg.-Damage>
+<Avg.-Damage-MVP>13735</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>2</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Minotaur-Head>
+<Samurai-Head>
 <Used>74 (2%)</Used>
 <MVP>3 (0%)</MVP>
-<Avg. Score>1458</Avg. Score>
-<Avg. Score MVP>1894</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>9923</Avg. Damage>
-<Avg. Damage MVP>15571</Avg. Damage MVP>
-<Avg. Taken>12723</Avg. Taken>
-<Avg. Taken MVP>13215</Avg. Taken MVP>
-<Avg. Damage>9923</Avg. Damage>
-<Avg. Damage MVP>15571</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>6</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Samurai Head>
-<Sinistar Head>
+<Avg.-Score>1458</Avg.-Score>
+<Avg.-Score-MVP>1894</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>9923</Avg.-Damage>
+<Avg.-Damage-MVP>15571</Avg.-Damage-MVP>
+<Avg.-Taken>12723</Avg.-Taken>
+<Avg.-Taken-MVP>13215</Avg.-Taken-MVP>
+<Avg.-Damage>9923</Avg.-Damage>
+<Avg.-Damage-MVP>15571</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>6</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Samurai-Head>
+<Sinistar-Head>
 <Used>262 (7%)</Used>
 <MVP>57 (11%)</MVP>
-<Avg. Score>1179</Avg. Score>
-<Avg. Score MVP>2443</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6826</Avg. Damage>
-<Avg. Damage MVP>16397</Avg. Damage MVP>
-<Avg. Taken>7961</Avg. Taken>
-<Avg. Taken MVP>11549</Avg. Taken MVP>
-<Avg. Damage>6826</Avg. Damage>
-<Avg. Damage MVP>16397</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>66</Total Flags>
-<Total Flags MVP>50</Total Flags MVP>
-</Sinistar Head>
-<Predator Head>
+<Avg.-Score>1179</Avg.-Score>
+<Avg.-Score-MVP>2443</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6826</Avg.-Damage>
+<Avg.-Damage-MVP>16397</Avg.-Damage-MVP>
+<Avg.-Taken>7961</Avg.-Taken>
+<Avg.-Taken-MVP>11549</Avg.-Taken-MVP>
+<Avg.-Damage>6826</Avg.-Damage>
+<Avg.-Damage-MVP>16397</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>66</Total-Flags>
+<Total-Flags-MVP>50</Total-Flags-MVP>
+</Sinistar-Head>
+<Predator-Head>
 <Used>761 (21%)</Used>
 <MVP>73 (14%)</MVP>
-<Avg. Score>1822</Avg. Score>
-<Avg. Score MVP>2678</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>9003</Avg. Damage>
-<Avg. Damage MVP>19930</Avg. Damage MVP>
-<Avg. Taken>9202</Avg. Taken>
-<Avg. Taken MVP>13827</Avg. Taken MVP>
-<Avg. Damage>9003</Avg. Damage>
-<Avg. Damage MVP>19930</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>25</Total Flags>
-<Total Flags MVP>10</Total Flags MVP>
-</Predator Head>
-<Doom's Visage>
+<Avg.-Score>1822</Avg.-Score>
+<Avg.-Score-MVP>2678</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>9003</Avg.-Damage>
+<Avg.-Damage-MVP>19930</Avg.-Damage-MVP>
+<Avg.-Taken>9202</Avg.-Taken>
+<Avg.-Taken-MVP>13827</Avg.-Taken-MVP>
+<Avg.-Damage>9003</Avg.-Damage>
+<Avg.-Damage-MVP>19930</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>25</Total-Flags>
+<Total-Flags-MVP>10</Total-Flags-MVP>
+</Predator-Head>
+<Doom-s-Visage>
 <Used>136 (3%)</Used>
 <MVP>20 (3%)</MVP>
-<Avg. Score>1512</Avg. Score>
-<Avg. Score MVP>3083</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>9764</Avg. Damage>
-<Avg. Damage MVP>23747</Avg. Damage MVP>
-<Avg. Taken>17314</Avg. Taken>
-<Avg. Taken MVP>24772</Avg. Taken MVP>
-<Avg. Damage>9764</Avg. Damage>
-<Avg. Damage MVP>23747</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>4</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
-</Doom's Visage>
-<Raptor Head>
+<Avg.-Score>1512</Avg.-Score>
+<Avg.-Score-MVP>3083</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>9764</Avg.-Damage>
+<Avg.-Damage-MVP>23747</Avg.-Damage-MVP>
+<Avg.-Taken>17314</Avg.-Taken>
+<Avg.-Taken-MVP>24772</Avg.-Taken-MVP>
+<Avg.-Damage>9764</Avg.-Damage>
+<Avg.-Damage-MVP>23747</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>4</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
+</Doom-s-Visage>
+<Raptor-Head>
 <Used>66 (1%)</Used>
 <MVP>8 (1%)</MVP>
-<Avg. Score>1925</Avg. Score>
-<Avg. Score MVP>3018</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>8280</Avg. Damage>
-<Avg. Damage MVP>19498</Avg. Damage MVP>
-<Avg. Taken>12312</Avg. Taken>
-<Avg. Taken MVP>9459</Avg. Taken MVP>
-<Avg. Damage>8280</Avg. Damage>
-<Avg. Damage MVP>19498</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>4</Avg. Deaths MVP>
-<Total Flags>1</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Raptor Head>
-</Heads>/n<Arms>
-<Articulated Arm>
+<Avg.-Score>1925</Avg.-Score>
+<Avg.-Score-MVP>3018</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>8280</Avg.-Damage>
+<Avg.-Damage-MVP>19498</Avg.-Damage-MVP>
+<Avg.-Taken>12312</Avg.-Taken>
+<Avg.-Taken-MVP>9459</Avg.-Taken-MVP>
+<Avg.-Damage>8280</Avg.-Damage>
+<Avg.-Damage-MVP>19498</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>4</Avg.-Deaths-MVP>
+<Total-Flags>1</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Raptor-Head>
+</Heads>
+<Arms>
+<Articulated-Arm>
 <Used>282 (8%)</Used>
 <MVP>38 (7%)</MVP>
-<Avg. Score>1576</Avg. Score>
-<Avg. Score MVP>2847</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8199</Avg. Damage>
-<Avg. Damage MVP>18042</Avg. Damage MVP>
-<Avg. Taken>7182</Avg. Taken>
-<Avg. Taken MVP>9686</Avg. Taken MVP>
-<Avg. Damage>8199</Avg. Damage>
-<Avg. Damage MVP>18042</Avg. Damage MVP>
-<Avg. Deaths>9</Avg. Deaths>
-<Avg. Deaths MVP>12</Avg. Deaths MVP>
-<Total Flags>61</Total Flags>
-<Total Flags MVP>15</Total Flags MVP>
-</Articulated Arm>
-<Articulated Arm 2>
+<Avg.-Score>1576</Avg.-Score>
+<Avg.-Score-MVP>2847</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8199</Avg.-Damage>
+<Avg.-Damage-MVP>18042</Avg.-Damage-MVP>
+<Avg.-Taken>7182</Avg.-Taken>
+<Avg.-Taken-MVP>9686</Avg.-Taken-MVP>
+<Avg.-Damage>8199</Avg.-Damage>
+<Avg.-Damage-MVP>18042</Avg.-Damage-MVP>
+<Avg.-Deaths>9</Avg.-Deaths>
+<Avg.-Deaths-MVP>12</Avg.-Deaths-MVP>
+<Total-Flags>61</Total-Flags>
+<Total-Flags-MVP>15</Total-Flags-MVP>
+</Articulated-Arm>
+<Articulated-Arm-2>
 <Used>45 (1%)</Used>
 <MVP>5 (0%)</MVP>
-<Avg. Score>1390</Avg. Score>
-<Avg. Score MVP>1928</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8307</Avg. Damage>
-<Avg. Damage MVP>20368</Avg. Damage MVP>
-<Avg. Taken>8076</Avg. Taken>
-<Avg. Taken MVP>9577</Avg. Taken MVP>
-<Avg. Damage>8307</Avg. Damage>
-<Avg. Damage MVP>20368</Avg. Damage MVP>
-<Avg. Deaths>9</Avg. Deaths>
-<Avg. Deaths MVP>13</Avg. Deaths MVP>
-<Total Flags>20</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Articulated Arm 2>
-<Armored Arm>
+<Avg.-Score>1390</Avg.-Score>
+<Avg.-Score-MVP>1928</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8307</Avg.-Damage>
+<Avg.-Damage-MVP>20368</Avg.-Damage-MVP>
+<Avg.-Taken>8076</Avg.-Taken>
+<Avg.-Taken-MVP>9577</Avg.-Taken-MVP>
+<Avg.-Damage>8307</Avg.-Damage>
+<Avg.-Damage-MVP>20368</Avg.-Damage-MVP>
+<Avg.-Deaths>9</Avg.-Deaths>
+<Avg.-Deaths-MVP>13</Avg.-Deaths-MVP>
+<Total-Flags>20</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Articulated-Arm-2>
+<Armored-Arm>
 <Used>321 (9%)</Used>
 <MVP>48 (9%)</MVP>
-<Avg. Score>1645</Avg. Score>
-<Avg. Score MVP>2307</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>4</Avg. Kills MVP>
-<Avg. Damage>6962</Avg. Damage>
-<Avg. Damage MVP>7647</Avg. Damage MVP>
-<Avg. Taken>8722</Avg. Taken>
-<Avg. Taken MVP>6266</Avg. Taken MVP>
-<Avg. Damage>6962</Avg. Damage>
-<Avg. Damage MVP>7647</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>95</Total Flags>
-<Total Flags MVP>89</Total Flags MVP>
-</Armored Arm>
-<Armored Arm 2>
+<Avg.-Score>1645</Avg.-Score>
+<Avg.-Score-MVP>2307</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>4</Avg.-Kills-MVP>
+<Avg.-Damage>6962</Avg.-Damage>
+<Avg.-Damage-MVP>7647</Avg.-Damage-MVP>
+<Avg.-Taken>8722</Avg.-Taken>
+<Avg.-Taken-MVP>6266</Avg.-Taken-MVP>
+<Avg.-Damage>6962</Avg.-Damage>
+<Avg.-Damage-MVP>7647</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>95</Total-Flags>
+<Total-Flags-MVP>89</Total-Flags-MVP>
+</Armored-Arm>
+<Armored-Arm-2>
 <Used>95 (2%)</Used>
 <MVP>27 (5%)</MVP>
-<Avg. Score>1379</Avg. Score>
-<Avg. Score MVP>2279</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>4</Avg. Kills MVP>
-<Avg. Damage>5686</Avg. Damage>
-<Avg. Damage MVP>6647</Avg. Damage MVP>
-<Avg. Taken>6502</Avg. Taken>
-<Avg. Taken MVP>5784</Avg. Taken MVP>
-<Avg. Damage>5686</Avg. Damage>
-<Avg. Damage MVP>6647</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>38</Total Flags>
-<Total Flags MVP>59</Total Flags MVP>
-</Armored Arm 2>
-<Razor Arm>
+<Avg.-Score>1379</Avg.-Score>
+<Avg.-Score-MVP>2279</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>4</Avg.-Kills-MVP>
+<Avg.-Damage>5686</Avg.-Damage>
+<Avg.-Damage-MVP>6647</Avg.-Damage-MVP>
+<Avg.-Taken>6502</Avg.-Taken>
+<Avg.-Taken-MVP>5784</Avg.-Taken-MVP>
+<Avg.-Damage>5686</Avg.-Damage>
+<Avg.-Damage-MVP>6647</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>38</Total-Flags>
+<Total-Flags-MVP>59</Total-Flags-MVP>
+</Armored-Arm-2>
+<Razor-Arm>
 <Used>281 (8%)</Used>
 <MVP>47 (9%)</MVP>
-<Avg. Score>1938</Avg. Score>
-<Avg. Score MVP>2786</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>6716</Avg. Damage>
-<Avg. Damage MVP>13609</Avg. Damage MVP>
-<Avg. Taken>8196</Avg. Taken>
-<Avg. Taken MVP>10038</Avg. Taken MVP>
-<Avg. Damage>6716</Avg. Damage>
-<Avg. Damage MVP>13609</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>94</Total Flags>
-<Total Flags MVP>51</Total Flags MVP>
-</Razor Arm>
-<Razor Arm 2>
+<Avg.-Score>1938</Avg.-Score>
+<Avg.-Score-MVP>2786</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>6716</Avg.-Damage>
+<Avg.-Damage-MVP>13609</Avg.-Damage-MVP>
+<Avg.-Taken>8196</Avg.-Taken>
+<Avg.-Taken-MVP>10038</Avg.-Taken-MVP>
+<Avg.-Damage>6716</Avg.-Damage>
+<Avg.-Damage-MVP>13609</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>94</Total-Flags>
+<Total-Flags-MVP>51</Total-Flags-MVP>
+</Razor-Arm>
+<Razor-Arm-2>
 <Used>144 (4%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1911</Avg. Score>
-<Avg. Score MVP>2509</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7329</Avg. Damage>
-<Avg. Damage MVP>16116</Avg. Damage MVP>
-<Avg. Taken>8129</Avg. Taken>
-<Avg. Taken MVP>10821</Avg. Taken MVP>
-<Avg. Damage>7329</Avg. Damage>
-<Avg. Damage MVP>16116</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>23</Total Flags>
-<Total Flags MVP>10</Total Flags MVP>
-</Razor Arm 2>
-<Thunder Blade Arm>
+<Avg.-Score>1911</Avg.-Score>
+<Avg.-Score-MVP>2509</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7329</Avg.-Damage>
+<Avg.-Damage-MVP>16116</Avg.-Damage-MVP>
+<Avg.-Taken>8129</Avg.-Taken>
+<Avg.-Taken-MVP>10821</Avg.-Taken-MVP>
+<Avg.-Damage>7329</Avg.-Damage>
+<Avg.-Damage-MVP>16116</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>23</Total-Flags>
+<Total-Flags-MVP>10</Total-Flags-MVP>
+</Razor-Arm-2>
+<Thunder-Blade-Arm>
 <Used>310 (8%)</Used>
 <MVP>58 (11%)</MVP>
-<Avg. Score>1404</Avg. Score>
-<Avg. Score MVP>2587</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>7309</Avg. Damage>
-<Avg. Damage MVP>17694</Avg. Damage MVP>
-<Avg. Taken>6964</Avg. Taken>
-<Avg. Taken MVP>9322</Avg. Taken MVP>
-<Avg. Damage>7309</Avg. Damage>
-<Avg. Damage MVP>17694</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>64</Total Flags>
-<Total Flags MVP>32</Total Flags MVP>
-</Thunder Blade Arm>
-<Thunder Blade Arm 2>
+<Avg.-Score>1404</Avg.-Score>
+<Avg.-Score-MVP>2587</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>7309</Avg.-Damage>
+<Avg.-Damage-MVP>17694</Avg.-Damage-MVP>
+<Avg.-Taken>6964</Avg.-Taken>
+<Avg.-Taken-MVP>9322</Avg.-Taken-MVP>
+<Avg.-Damage>7309</Avg.-Damage>
+<Avg.-Damage-MVP>17694</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>64</Total-Flags>
+<Total-Flags-MVP>32</Total-Flags-MVP>
+</Thunder-Blade-Arm>
+<Thunder-Blade-Arm-2>
 <Used>96 (2%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1438</Avg. Score>
-<Avg. Score MVP>3157</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>7550</Avg. Damage>
-<Avg. Damage MVP>17178</Avg. Damage MVP>
-<Avg. Taken>6453</Avg. Taken>
-<Avg. Taken MVP>10425</Avg. Taken MVP>
-<Avg. Damage>7550</Avg. Damage>
-<Avg. Damage MVP>17178</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>9</Total Flags>
-<Total Flags MVP>11</Total Flags MVP>
-</Thunder Blade Arm 2>
-<Multipack Arm>
+<Avg.-Score>1438</Avg.-Score>
+<Avg.-Score-MVP>3157</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>7550</Avg.-Damage>
+<Avg.-Damage-MVP>17178</Avg.-Damage-MVP>
+<Avg.-Taken>6453</Avg.-Taken>
+<Avg.-Taken-MVP>10425</Avg.-Taken-MVP>
+<Avg.-Damage>7550</Avg.-Damage>
+<Avg.-Damage-MVP>17178</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>9</Total-Flags>
+<Total-Flags-MVP>11</Total-Flags-MVP>
+</Thunder-Blade-Arm-2>
+<Multipack-Arm>
 <Used>51 (1%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1338</Avg. Score>
-<Avg. Score MVP>2325</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>9199</Avg. Damage>
-<Avg. Damage MVP>17783</Avg. Damage MVP>
-<Avg. Taken>10882</Avg. Taken>
-<Avg. Taken MVP>14651</Avg. Taken MVP>
-<Avg. Damage>9199</Avg. Damage>
-<Avg. Damage MVP>17783</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>4</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Multipack Arm>
-<Multipack Arm 2>
+<Avg.-Score>1338</Avg.-Score>
+<Avg.-Score-MVP>2325</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>9199</Avg.-Damage>
+<Avg.-Damage-MVP>17783</Avg.-Damage-MVP>
+<Avg.-Taken>10882</Avg.-Taken>
+<Avg.-Taken-MVP>14651</Avg.-Taken-MVP>
+<Avg.-Damage>9199</Avg.-Damage>
+<Avg.-Damage-MVP>17783</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>4</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Multipack-Arm>
+<Multipack-Arm-2>
 <Used>40 (1%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1433</Avg. Score>
-<Avg. Score MVP>2325</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>9283</Avg. Damage>
-<Avg. Damage MVP>17783</Avg. Damage MVP>
-<Avg. Taken>11049</Avg. Taken>
-<Avg. Taken MVP>14651</Avg. Taken MVP>
-<Avg. Damage>9283</Avg. Damage>
-<Avg. Damage MVP>17783</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>2</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Multipack Arm 2>
-<Stormhammer Arm>
+<Avg.-Score>1433</Avg.-Score>
+<Avg.-Score-MVP>2325</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>9283</Avg.-Damage>
+<Avg.-Damage-MVP>17783</Avg.-Damage-MVP>
+<Avg.-Taken>11049</Avg.-Taken>
+<Avg.-Taken-MVP>14651</Avg.-Taken-MVP>
+<Avg.-Damage>9283</Avg.-Damage>
+<Avg.-Damage-MVP>17783</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>2</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Multipack-Arm-2>
+<Stormhammer-Arm>
 <Used>544 (15%)</Used>
 <MVP>151 (29%)</MVP>
-<Avg. Score>1514</Avg. Score>
-<Avg. Score MVP>2641</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6184</Avg. Damage>
-<Avg. Damage MVP>12467</Avg. Damage MVP>
-<Avg. Taken>7277</Avg. Taken>
-<Avg. Taken MVP>9009</Avg. Taken MVP>
-<Avg. Damage>6184</Avg. Damage>
-<Avg. Damage MVP>12467</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>207</Total Flags>
-<Total Flags MVP>218</Total Flags MVP>
-</Stormhammer Arm>
-<Stormhammer Arm 2>
+<Avg.-Score>1514</Avg.-Score>
+<Avg.-Score-MVP>2641</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6184</Avg.-Damage>
+<Avg.-Damage-MVP>12467</Avg.-Damage-MVP>
+<Avg.-Taken>7277</Avg.-Taken>
+<Avg.-Taken-MVP>9009</Avg.-Taken-MVP>
+<Avg.-Damage>6184</Avg.-Damage>
+<Avg.-Damage-MVP>12467</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>207</Total-Flags>
+<Total-Flags-MVP>218</Total-Flags-MVP>
+</Stormhammer-Arm>
+<Stormhammer-Arm-2>
 <Used>406 (11%)</Used>
 <MVP>139 (26%)</MVP>
-<Avg. Score>1534</Avg. Score>
-<Avg. Score MVP>2671</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>5753</Avg. Damage>
-<Avg. Damage MVP>12344</Avg. Damage MVP>
-<Avg. Taken>6253</Avg. Taken>
-<Avg. Taken MVP>8779</Avg. Taken MVP>
-<Avg. Damage>5753</Avg. Damage>
-<Avg. Damage MVP>12344</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>180</Total Flags>
-<Total Flags MVP>206</Total Flags MVP>
-</Stormhammer Arm 2>
-<Orion Arm>
+<Avg.-Score>1534</Avg.-Score>
+<Avg.-Score-MVP>2671</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>5753</Avg.-Damage>
+<Avg.-Damage-MVP>12344</Avg.-Damage-MVP>
+<Avg.-Taken>6253</Avg.-Taken>
+<Avg.-Taken-MVP>8779</Avg.-Taken-MVP>
+<Avg.-Damage>5753</Avg.-Damage>
+<Avg.-Damage-MVP>12344</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>180</Total-Flags>
+<Total-Flags-MVP>206</Total-Flags-MVP>
+</Stormhammer-Arm-2>
+<Orion-Arm>
 <Used>330 (9%)</Used>
 <MVP>24 (4%)</MVP>
-<Avg. Score>1695</Avg. Score>
-<Avg. Score MVP>2535</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6305</Avg. Damage>
-<Avg. Damage MVP>12790</Avg. Damage MVP>
-<Avg. Taken>8444</Avg. Taken>
-<Avg. Taken MVP>8861</Avg. Taken MVP>
-<Avg. Damage>6305</Avg. Damage>
-<Avg. Damage MVP>12790</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>87</Total Flags>
-<Total Flags MVP>26</Total Flags MVP>
-</Orion Arm>
-<Orion Arm 2>
+<Avg.-Score>1695</Avg.-Score>
+<Avg.-Score-MVP>2535</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6305</Avg.-Damage>
+<Avg.-Damage-MVP>12790</Avg.-Damage-MVP>
+<Avg.-Taken>8444</Avg.-Taken>
+<Avg.-Taken-MVP>8861</Avg.-Taken-MVP>
+<Avg.-Damage>6305</Avg.-Damage>
+<Avg.-Damage-MVP>12790</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>87</Total-Flags>
+<Total-Flags-MVP>26</Total-Flags-MVP>
+</Orion-Arm>
+<Orion-Arm-2>
 <Used>70 (2%)</Used>
 <MVP>6 (1%)</MVP>
-<Avg. Score>1306</Avg. Score>
-<Avg. Score MVP>2485</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>5234</Avg. Damage>
-<Avg. Damage MVP>10407</Avg. Damage MVP>
-<Avg. Taken>7357</Avg. Taken>
-<Avg. Taken MVP>6352</Avg. Taken MVP>
-<Avg. Damage>5234</Avg. Damage>
-<Avg. Damage MVP>10407</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>21</Total Flags>
-<Total Flags MVP>6</Total Flags MVP>
-</Orion Arm 2>
-<Titanic Rocket Pod>
+<Avg.-Score>1306</Avg.-Score>
+<Avg.-Score-MVP>2485</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>5234</Avg.-Damage>
+<Avg.-Damage-MVP>10407</Avg.-Damage-MVP>
+<Avg.-Taken>7357</Avg.-Taken>
+<Avg.-Taken-MVP>6352</Avg.-Taken-MVP>
+<Avg.-Damage>5234</Avg.-Damage>
+<Avg.-Damage-MVP>10407</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>21</Total-Flags>
+<Total-Flags-MVP>6</Total-Flags-MVP>
+</Orion-Arm-2>
+<Titanic-Rocket-Pod>
 <Used>329 (9%)</Used>
 <MVP>23 (4%)</MVP>
-<Avg. Score>1777</Avg. Score>
-<Avg. Score MVP>3012</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>9654</Avg. Damage>
-<Avg. Damage MVP>20966</Avg. Damage MVP>
-<Avg. Taken>12809</Avg. Taken>
-<Avg. Taken MVP>18998</Avg. Taken MVP>
-<Avg. Damage>9654</Avg. Damage>
-<Avg. Damage MVP>20966</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>17</Total Flags>
-<Total Flags MVP>3</Total Flags MVP>
-</Titanic Rocket Pod>
-<Titanic Rocket Pod 2>
+<Avg.-Score>1777</Avg.-Score>
+<Avg.-Score-MVP>3012</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>9654</Avg.-Damage>
+<Avg.-Damage-MVP>20966</Avg.-Damage-MVP>
+<Avg.-Taken>12809</Avg.-Taken>
+<Avg.-Taken-MVP>18998</Avg.-Taken-MVP>
+<Avg.-Damage>9654</Avg.-Damage>
+<Avg.-Damage-MVP>20966</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>17</Total-Flags>
+<Total-Flags-MVP>3</Total-Flags-MVP>
+</Titanic-Rocket-Pod>
+<Titanic-Rocket-Pod-2>
 <Used>187 (5%)</Used>
 <MVP>13 (2%)</MVP>
-<Avg. Score>1812</Avg. Score>
-<Avg. Score MVP>2649</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>9656</Avg. Damage>
-<Avg. Damage MVP>23587</Avg. Damage MVP>
-<Avg. Taken>11468</Avg. Taken>
-<Avg. Taken MVP>18622</Avg. Taken MVP>
-<Avg. Damage>9656</Avg. Damage>
-<Avg. Damage MVP>23587</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>9</Total Flags>
-<Total Flags MVP>3</Total Flags MVP>
-</Titanic Rocket Pod 2>
-<Fusion Blade Arm>
+<Avg.-Score>1812</Avg.-Score>
+<Avg.-Score-MVP>2649</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>9656</Avg.-Damage>
+<Avg.-Damage-MVP>23587</Avg.-Damage-MVP>
+<Avg.-Taken>11468</Avg.-Taken>
+<Avg.-Taken-MVP>18622</Avg.-Taken-MVP>
+<Avg.-Damage>9656</Avg.-Damage>
+<Avg.-Damage-MVP>23587</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>9</Total-Flags>
+<Total-Flags-MVP>3</Total-Flags-MVP>
+</Titanic-Rocket-Pod-2>
+<Fusion-Blade-Arm>
 <Used>254 (7%)</Used>
 <MVP>34 (6%)</MVP>
-<Avg. Score>2097</Avg. Score>
-<Avg. Score MVP>3398</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>8468</Avg. Damage>
-<Avg. Damage MVP>13451</Avg. Damage MVP>
-<Avg. Taken>11284</Avg. Taken>
-<Avg. Taken MVP>12005</Avg. Taken MVP>
-<Avg. Damage>8468</Avg. Damage>
-<Avg. Damage MVP>13451</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>59</Total Flags>
-<Total Flags MVP>38</Total Flags MVP>
-</Fusion Blade Arm>
-<Fusion Blade Arm 2>
+<Avg.-Score>2097</Avg.-Score>
+<Avg.-Score-MVP>3398</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>8468</Avg.-Damage>
+<Avg.-Damage-MVP>13451</Avg.-Damage-MVP>
+<Avg.-Taken>11284</Avg.-Taken>
+<Avg.-Taken-MVP>12005</Avg.-Taken-MVP>
+<Avg.-Damage>8468</Avg.-Damage>
+<Avg.-Damage-MVP>13451</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>59</Total-Flags>
+<Total-Flags-MVP>38</Total-Flags-MVP>
+</Fusion-Blade-Arm>
+<Fusion-Blade-Arm-2>
 <Used>53 (1%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1422</Avg. Score>
-<Avg. Score MVP>2549</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>10423</Avg. Damage>
-<Avg. Damage MVP>21539</Avg. Damage MVP>
-<Avg. Taken>13926</Avg. Taken>
-<Avg. Taken MVP>16817</Avg. Taken MVP>
-<Avg. Damage>10423</Avg. Damage>
-<Avg. Damage MVP>21539</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>5</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Fusion Blade Arm 2>
-<Arm of Giglamesh>
+<Avg.-Score>1422</Avg.-Score>
+<Avg.-Score-MVP>2549</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>10423</Avg.-Damage>
+<Avg.-Damage-MVP>21539</Avg.-Damage-MVP>
+<Avg.-Taken>13926</Avg.-Taken>
+<Avg.-Taken-MVP>16817</Avg.-Taken-MVP>
+<Avg.-Damage>10423</Avg.-Damage>
+<Avg.-Damage-MVP>21539</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>5</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Fusion-Blade-Arm-2>
+<Arm-of-Giglamesh>
 <Used>754 (21%)</Used>
 <MVP>80 (15%)</MVP>
-<Avg. Score>1866</Avg. Score>
-<Avg. Score MVP>3471</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>9422</Avg. Damage>
-<Avg. Damage MVP>22395</Avg. Damage MVP>
-<Avg. Taken>11866</Avg. Taken>
-<Avg. Taken MVP>19507</Avg. Taken MVP>
-<Avg. Damage>9422</Avg. Damage>
-<Avg. Damage MVP>22395</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>8</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Arm of Giglamesh>
-<Arm of Giglamesh 2>
+<Avg.-Score>1866</Avg.-Score>
+<Avg.-Score-MVP>3471</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>9422</Avg.-Damage>
+<Avg.-Damage-MVP>22395</Avg.-Damage-MVP>
+<Avg.-Taken>11866</Avg.-Taken>
+<Avg.-Taken-MVP>19507</Avg.-Taken-MVP>
+<Avg.-Damage>9422</Avg.-Damage>
+<Avg.-Damage-MVP>22395</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>8</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Arm-of-Giglamesh>
+<Arm-of-Giglamesh-2>
 <Used>113 (3%)</Used>
 <MVP>6 (1%)</MVP>
-<Avg. Score>1809</Avg. Score>
-<Avg. Score MVP>2503</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8678</Avg. Damage>
-<Avg. Damage MVP>14413</Avg. Damage MVP>
-<Avg. Taken>13926</Avg. Taken>
-<Avg. Taken MVP>14439</Avg. Taken MVP>
-<Avg. Damage>8678</Avg. Damage>
-<Avg. Damage MVP>14413</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>3</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Arm of Giglamesh 2>
-</Arms>/n<Shoulders>
-<Shoulder Pack>
+<Avg.-Score>1809</Avg.-Score>
+<Avg.-Score-MVP>2503</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8678</Avg.-Damage>
+<Avg.-Damage-MVP>14413</Avg.-Damage-MVP>
+<Avg.-Taken>13926</Avg.-Taken>
+<Avg.-Taken-MVP>14439</Avg.-Taken-MVP>
+<Avg.-Damage>8678</Avg.-Damage>
+<Avg.-Damage-MVP>14413</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>3</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Arm-of-Giglamesh-2>
+</Arms>
+<Shoulders>
+<Shoulder-Pack>
 <Used>291 (8%)</Used>
 <MVP>24 (4%)</MVP>
-<Avg. Score>1504</Avg. Score>
-<Avg. Score MVP>2220</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8261</Avg. Damage>
-<Avg. Damage MVP>17126</Avg. Damage MVP>
-<Avg. Taken>8345</Avg. Taken>
-<Avg. Taken MVP>9371</Avg. Taken MVP>
-<Avg. Damage>8261</Avg. Damage>
-<Avg. Damage MVP>17126</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>28</Total Flags>
-<Total Flags MVP>12</Total Flags MVP>
-</Shoulder Pack>
-<Heavy Mounting>
+<Avg.-Score>1504</Avg.-Score>
+<Avg.-Score-MVP>2220</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8261</Avg.-Damage>
+<Avg.-Damage-MVP>17126</Avg.-Damage-MVP>
+<Avg.-Taken>8345</Avg.-Taken>
+<Avg.-Taken-MVP>9371</Avg.-Taken-MVP>
+<Avg.-Damage>8261</Avg.-Damage>
+<Avg.-Damage-MVP>17126</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>28</Total-Flags>
+<Total-Flags-MVP>12</Total-Flags-MVP>
+</Shoulder-Pack>
+<Heavy-Mounting>
 <Used>60 (1%)</Used>
 <MVP>5 (0%)</MVP>
-<Avg. Score>1539</Avg. Score>
-<Avg. Score MVP>2301</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>10198</Avg. Damage>
-<Avg. Damage MVP>20225</Avg. Damage MVP>
-<Avg. Taken>11241</Avg. Taken>
-<Avg. Taken MVP>11759</Avg. Taken MVP>
-<Avg. Damage>10198</Avg. Damage>
-<Avg. Damage MVP>20225</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>15</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Heavy Mounting>
-<Gravity Nullifier>
+<Avg.-Score>1539</Avg.-Score>
+<Avg.-Score-MVP>2301</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>10198</Avg.-Damage>
+<Avg.-Damage-MVP>20225</Avg.-Damage-MVP>
+<Avg.-Taken>11241</Avg.-Taken>
+<Avg.-Taken-MVP>11759</Avg.-Taken-MVP>
+<Avg.-Damage>10198</Avg.-Damage>
+<Avg.-Damage-MVP>20225</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>15</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Heavy-Mounting>
+<Gravity-Nullifier>
 <Used>240 (6%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1551</Avg. Score>
-<Avg. Score MVP>2617</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8549</Avg. Damage>
-<Avg. Damage MVP>18588</Avg. Damage MVP>
-<Avg. Taken>12745</Avg. Taken>
-<Avg. Taken MVP>18366</Avg. Taken MVP>
-<Avg. Damage>8549</Avg. Damage>
-<Avg. Damage MVP>18588</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>22</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Gravity Nullifier>
-<Light Shoulder Pack>
+<Avg.-Score>1551</Avg.-Score>
+<Avg.-Score-MVP>2617</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8549</Avg.-Damage>
+<Avg.-Damage-MVP>18588</Avg.-Damage-MVP>
+<Avg.-Taken>12745</Avg.-Taken>
+<Avg.-Taken-MVP>18366</Avg.-Taken-MVP>
+<Avg.-Damage>8549</Avg.-Damage>
+<Avg.-Damage-MVP>18588</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>22</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Gravity-Nullifier>
+<Light-Shoulder-Pack>
 <Used>107 (3%)</Used>
 <MVP>12 (2%)</MVP>
-<Avg. Score>1542</Avg. Score>
-<Avg. Score MVP>2367</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>8654</Avg. Damage>
-<Avg. Damage MVP>19316</Avg. Damage MVP>
-<Avg. Taken>7843</Avg. Taken>
-<Avg. Taken MVP>10198</Avg. Taken MVP>
-<Avg. Damage>8654</Avg. Damage>
-<Avg. Damage MVP>19316</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>11</Avg. Deaths MVP>
-<Total Flags>6</Total Flags>
-<Total Flags MVP>3</Total Flags MVP>
-</Light Shoulder Pack>
-<Turret Mounting>
+<Avg.-Score>1542</Avg.-Score>
+<Avg.-Score-MVP>2367</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>8654</Avg.-Damage>
+<Avg.-Damage-MVP>19316</Avg.-Damage-MVP>
+<Avg.-Taken>7843</Avg.-Taken>
+<Avg.-Taken-MVP>10198</Avg.-Taken-MVP>
+<Avg.-Damage>8654</Avg.-Damage>
+<Avg.-Damage-MVP>19316</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>11</Avg.-Deaths-MVP>
+<Total-Flags>6</Total-Flags>
+<Total-Flags-MVP>3</Total-Flags-MVP>
+</Light-Shoulder-Pack>
+<Turret-Mounting>
 <Used>406 (11%)</Used>
 <MVP>58 (11%)</MVP>
-<Avg. Score>1631</Avg. Score>
-<Avg. Score MVP>2894</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8023</Avg. Damage>
-<Avg. Damage MVP>17742</Avg. Damage MVP>
-<Avg. Taken>7291</Avg. Taken>
-<Avg. Taken MVP>8331</Avg. Taken MVP>
-<Avg. Damage>8023</Avg. Damage>
-<Avg. Damage MVP>17742</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>60</Total Flags>
-<Total Flags MVP>16</Total Flags MVP>
-</Turret Mounting>
-<Jump Jet>
+<Avg.-Score>1631</Avg.-Score>
+<Avg.-Score-MVP>2894</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8023</Avg.-Damage>
+<Avg.-Damage-MVP>17742</Avg.-Damage-MVP>
+<Avg.-Taken>7291</Avg.-Taken>
+<Avg.-Taken-MVP>8331</Avg.-Taken-MVP>
+<Avg.-Damage>8023</Avg.-Damage>
+<Avg.-Damage-MVP>17742</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>60</Total-Flags>
+<Total-Flags-MVP>16</Total-Flags-MVP>
+</Turret-Mounting>
+<Jump-Jet>
 <Used>502 (14%)</Used>
 <MVP>108 (20%)</MVP>
-<Avg. Score>1738</Avg. Score>
-<Avg. Score MVP>2845</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6436</Avg. Damage>
-<Avg. Damage MVP>12108</Avg. Damage MVP>
-<Avg. Taken>7324</Avg. Taken>
-<Avg. Taken MVP>8514</Avg. Taken MVP>
-<Avg. Damage>6436</Avg. Damage>
-<Avg. Damage MVP>12108</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>190</Total Flags>
-<Total Flags MVP>146</Total Flags MVP>
-</Jump Jet>
-<Atmospheric Wing>
+<Avg.-Score>1738</Avg.-Score>
+<Avg.-Score-MVP>2845</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6436</Avg.-Damage>
+<Avg.-Damage-MVP>12108</Avg.-Damage-MVP>
+<Avg.-Taken>7324</Avg.-Taken>
+<Avg.-Taken-MVP>8514</Avg.-Taken-MVP>
+<Avg.-Damage>6436</Avg.-Damage>
+<Avg.-Damage-MVP>12108</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>190</Total-Flags>
+<Total-Flags-MVP>146</Total-Flags-MVP>
+</Jump-Jet>
+<Atmospheric-Wing>
 <Used>1462 (42%)</Used>
 <MVP>306 (59%)</MVP>
-<Avg. Score>1582</Avg. Score>
-<Avg. Score MVP>2532</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6149</Avg. Damage>
-<Avg. Damage MVP>11641</Avg. Damage MVP>
-<Avg. Taken>6563</Avg. Taken>
-<Avg. Taken MVP>7595</Avg. Taken MVP>
-<Avg. Damage>6149</Avg. Damage>
-<Avg. Damage MVP>11641</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>534</Total Flags>
-<Total Flags MVP>416</Total Flags MVP>
-</Atmospheric Wing>
-<Expanded Shoulder Pack>
+<Avg.-Score>1582</Avg.-Score>
+<Avg.-Score-MVP>2532</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6149</Avg.-Damage>
+<Avg.-Damage-MVP>11641</Avg.-Damage-MVP>
+<Avg.-Taken>6563</Avg.-Taken>
+<Avg.-Taken-MVP>7595</Avg.-Taken-MVP>
+<Avg.-Damage>6149</Avg.-Damage>
+<Avg.-Damage-MVP>11641</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>534</Total-Flags>
+<Total-Flags-MVP>416</Total-Flags-MVP>
+</Atmospheric-Wing>
+<Expanded-Shoulder-Pack>
 <Used>76 (2%)</Used>
 <MVP>5 (0%)</MVP>
-<Avg. Score>1627</Avg. Score>
-<Avg. Score MVP>2018</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>7571</Avg. Damage>
-<Avg. Damage MVP>16265</Avg. Damage MVP>
-<Avg. Taken>8323</Avg. Taken>
-<Avg. Taken MVP>7107</Avg. Taken MVP>
-<Avg. Damage>7571</Avg. Damage>
-<Avg. Damage MVP>16265</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>15</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</Expanded Shoulder Pack>
-<Heavy Shoulder Pack>
+<Avg.-Score>1627</Avg.-Score>
+<Avg.-Score-MVP>2018</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>7571</Avg.-Damage>
+<Avg.-Damage-MVP>16265</Avg.-Damage-MVP>
+<Avg.-Taken>8323</Avg.-Taken>
+<Avg.-Taken-MVP>7107</Avg.-Taken-MVP>
+<Avg.-Damage>7571</Avg.-Damage>
+<Avg.-Damage-MVP>16265</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>15</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</Expanded-Shoulder-Pack>
+<Heavy-Shoulder-Pack>
 <Used>91 (2%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1402</Avg. Score>
-<Avg. Score MVP>2094</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>8384</Avg. Damage>
-<Avg. Damage MVP>8888</Avg. Damage MVP>
-<Avg. Taken>9199</Avg. Taken>
-<Avg. Taken MVP>8715</Avg. Taken MVP>
-<Avg. Damage>8384</Avg. Damage>
-<Avg. Damage MVP>8888</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>5</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
-</Heavy Shoulder Pack>
-<Ordnance Mounting>
+<Avg.-Score>1402</Avg.-Score>
+<Avg.-Score-MVP>2094</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>8384</Avg.-Damage>
+<Avg.-Damage-MVP>8888</Avg.-Damage-MVP>
+<Avg.-Taken>9199</Avg.-Taken>
+<Avg.-Taken-MVP>8715</Avg.-Taken-MVP>
+<Avg.-Damage>8384</Avg.-Damage>
+<Avg.-Damage-MVP>8888</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>5</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
+</Heavy-Shoulder-Pack>
+<Ordnance-Mounting>
 <Used>1496 (43%)</Used>
 <MVP>163 (31%)</MVP>
-<Avg. Score>1763</Avg. Score>
-<Avg. Score MVP>3012</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8130</Avg. Damage>
-<Avg. Damage MVP>17536</Avg. Damage MVP>
-<Avg. Taken>8552</Avg. Taken>
-<Avg. Taken MVP>11999</Avg. Taken MVP>
-<Avg. Damage>8130</Avg. Damage>
-<Avg. Damage MVP>17536</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>148</Total Flags>
-<Total Flags MVP>71</Total Flags MVP>
-</Ordnance Mounting>
-</Shoulders>/n<Weapons>
-<Flak Repeater>
+<Avg.-Score>1763</Avg.-Score>
+<Avg.-Score-MVP>3012</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8130</Avg.-Damage>
+<Avg.-Damage-MVP>17536</Avg.-Damage-MVP>
+<Avg.-Taken>8552</Avg.-Taken>
+<Avg.-Taken-MVP>11999</Avg.-Taken-MVP>
+<Avg.-Damage>8130</Avg.-Damage>
+<Avg.-Damage-MVP>17536</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>148</Total-Flags>
+<Total-Flags-MVP>71</Total-Flags-MVP>
+</Ordnance-Mounting>
+</Shoulders>
+<Weapons>
+<Flak-Repeater>
 <Used>639 (18%)</Used>
 <MVP>169 (32%)</MVP>
-<Avg. Score>1647</Avg. Score>
-<Avg. Score MVP>2633</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6464</Avg. Damage>
-<Avg. Damage MVP>13138</Avg. Damage MVP>
-<Avg. Taken>6488</Avg. Taken>
-<Avg. Taken MVP>8986</Avg. Taken MVP>
-<Avg. Damage>6464</Avg. Damage>
-<Avg. Damage MVP>13138</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>239</Total Flags>
-<Total Flags MVP>229</Total Flags MVP>
-</Flak Repeater>
+<Avg.-Score>1647</Avg.-Score>
+<Avg.-Score-MVP>2633</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6464</Avg.-Damage>
+<Avg.-Damage-MVP>13138</Avg.-Damage-MVP>
+<Avg.-Taken>6488</Avg.-Taken>
+<Avg.-Taken-MVP>8986</Avg.-Taken-MVP>
+<Avg.-Damage>6464</Avg.-Damage>
+<Avg.-Damage-MVP>13138</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>239</Total-Flags>
+<Total-Flags-MVP>229</Total-Flags-MVP>
+</Flak-Repeater>
 <Minigun>
 <Used>197 (5%)</Used>
 <MVP>24 (4%)</MVP>
-<Avg. Score>1722</Avg. Score>
-<Avg. Score MVP>2710</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7728</Avg. Damage>
-<Avg. Damage MVP>17280</Avg. Damage MVP>
-<Avg. Taken>8999</Avg. Taken>
-<Avg. Taken MVP>11641</Avg. Taken MVP>
-<Avg. Damage>7728</Avg. Damage>
-<Avg. Damage MVP>17280</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>11</Avg. Deaths MVP>
-<Total Flags>24</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
+<Avg.-Score>1722</Avg.-Score>
+<Avg.-Score-MVP>2710</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7728</Avg.-Damage>
+<Avg.-Damage-MVP>17280</Avg.-Damage-MVP>
+<Avg.-Taken>8999</Avg.-Taken>
+<Avg.-Taken-MVP>11641</Avg.-Taken-MVP>
+<Avg.-Damage>7728</Avg.-Damage>
+<Avg.-Damage-MVP>17280</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>11</Avg.-Deaths-MVP>
+<Total-Flags>24</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
 </Minigun>
-<Fire Bomb Launcher>
+<Fire-Bomb-Launcher>
 <Used>161 (4%)</Used>
 <MVP>18 (3%)</MVP>
-<Avg. Score>1462</Avg. Score>
-<Avg. Score MVP>2248</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>7323</Avg. Damage>
-<Avg. Damage MVP>15437</Avg. Damage MVP>
-<Avg. Taken>8470</Avg. Taken>
-<Avg. Taken MVP>8897</Avg. Taken MVP>
-<Avg. Damage>7323</Avg. Damage>
-<Avg. Damage MVP>15437</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>39</Total Flags>
-<Total Flags MVP>14</Total Flags MVP>
-</Fire Bomb Launcher>
-<Gauss Gun>
+<Avg.-Score>1462</Avg.-Score>
+<Avg.-Score-MVP>2248</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>7323</Avg.-Damage>
+<Avg.-Damage-MVP>15437</Avg.-Damage-MVP>
+<Avg.-Taken>8470</Avg.-Taken>
+<Avg.-Taken-MVP>8897</Avg.-Taken-MVP>
+<Avg.-Damage>7323</Avg.-Damage>
+<Avg.-Damage-MVP>15437</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>39</Total-Flags>
+<Total-Flags-MVP>14</Total-Flags-MVP>
+</Fire-Bomb-Launcher>
+<Gauss-Gun>
 <Used>640 (18%)</Used>
 <MVP>110 (21%)</MVP>
-<Avg. Score>1578</Avg. Score>
-<Avg. Score MVP>2610</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6558</Avg. Damage>
-<Avg. Damage MVP>14191</Avg. Damage MVP>
-<Avg. Taken>5884</Avg. Taken>
-<Avg. Taken MVP>7548</Avg. Taken MVP>
-<Avg. Damage>6558</Avg. Damage>
-<Avg. Damage MVP>14191</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>175</Total Flags>
-<Total Flags MVP>92</Total Flags MVP>
-</Gauss Gun>
-<Pulse Laser>
+<Avg.-Score>1578</Avg.-Score>
+<Avg.-Score-MVP>2610</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6558</Avg.-Damage>
+<Avg.-Damage-MVP>14191</Avg.-Damage-MVP>
+<Avg.-Taken>5884</Avg.-Taken>
+<Avg.-Taken-MVP>7548</Avg.-Taken-MVP>
+<Avg.-Damage>6558</Avg.-Damage>
+<Avg.-Damage-MVP>14191</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>175</Total-Flags>
+<Total-Flags-MVP>92</Total-Flags-MVP>
+</Gauss-Gun>
+<Pulse-Laser>
 <Used>134 (3%)</Used>
 <MVP>17 (3%)</MVP>
-<Avg. Score>1754</Avg. Score>
-<Avg. Score MVP>3410</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>7242</Avg. Damage>
-<Avg. Damage MVP>16923</Avg. Damage MVP>
-<Avg. Taken>6573</Avg. Taken>
-<Avg. Taken MVP>8025</Avg. Taken MVP>
-<Avg. Damage>7242</Avg. Damage>
-<Avg. Damage MVP>16923</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>10</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</Pulse Laser>
-<Plasma Spray>
+<Avg.-Score>1754</Avg.-Score>
+<Avg.-Score-MVP>3410</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>7242</Avg.-Damage>
+<Avg.-Damage-MVP>16923</Avg.-Damage-MVP>
+<Avg.-Taken>6573</Avg.-Taken>
+<Avg.-Taken-MVP>8025</Avg.-Taken-MVP>
+<Avg.-Damage>7242</Avg.-Damage>
+<Avg.-Damage-MVP>16923</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>10</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</Pulse-Laser>
+<Plasma-Spray>
 <Used>104 (3%)</Used>
 <MVP>12 (2%)</MVP>
-<Avg. Score>1419</Avg. Score>
-<Avg. Score MVP>2717</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7258</Avg. Damage>
-<Avg. Damage MVP>15187</Avg. Damage MVP>
-<Avg. Taken>7918</Avg. Taken>
-<Avg. Taken MVP>7995</Avg. Taken MVP>
-<Avg. Damage>7258</Avg. Damage>
-<Avg. Damage MVP>15187</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>9</Total Flags>
-<Total Flags MVP>7</Total Flags MVP>
-</Plasma Spray>
-<Electron Cannon>
+<Avg.-Score>1419</Avg.-Score>
+<Avg.-Score-MVP>2717</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7258</Avg.-Damage>
+<Avg.-Damage-MVP>15187</Avg.-Damage-MVP>
+<Avg.-Taken>7918</Avg.-Taken>
+<Avg.-Taken-MVP>7995</Avg.-Taken-MVP>
+<Avg.-Damage>7258</Avg.-Damage>
+<Avg.-Damage-MVP>15187</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>9</Total-Flags>
+<Total-Flags-MVP>7</Total-Flags-MVP>
+</Plasma-Spray>
+<Electron-Cannon>
 <Used>182 (5%)</Used>
 <MVP>19 (3%)</MVP>
-<Avg. Score>1805</Avg. Score>
-<Avg. Score MVP>3373</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>6966</Avg. Damage>
-<Avg. Damage MVP>12003</Avg. Damage MVP>
-<Avg. Taken>8168</Avg. Taken>
-<Avg. Taken MVP>9841</Avg. Taken MVP>
-<Avg. Damage>6966</Avg. Damage>
-<Avg. Damage MVP>12003</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>61</Total Flags>
-<Total Flags MVP>28</Total Flags MVP>
-</Electron Cannon>
-<Dual Mounting>
+<Avg.-Score>1805</Avg.-Score>
+<Avg.-Score-MVP>3373</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>6966</Avg.-Damage>
+<Avg.-Damage-MVP>12003</Avg.-Damage-MVP>
+<Avg.-Taken>8168</Avg.-Taken>
+<Avg.-Taken-MVP>9841</Avg.-Taken-MVP>
+<Avg.-Damage>6966</Avg.-Damage>
+<Avg.-Damage-MVP>12003</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>61</Total-Flags>
+<Total-Flags-MVP>28</Total-Flags-MVP>
+</Electron-Cannon>
+<Dual-Mounting>
 <Used>255 (7%)</Used>
 <MVP>32 (6%)</MVP>
-<Avg. Score>1708</Avg. Score>
-<Avg. Score MVP>3061</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>7956</Avg. Damage>
-<Avg. Damage MVP>17198</Avg. Damage MVP>
-<Avg. Taken>8443</Avg. Taken>
-<Avg. Taken MVP>9593</Avg. Taken MVP>
-<Avg. Damage>7956</Avg. Damage>
-<Avg. Damage MVP>17198</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>29</Total Flags>
-<Total Flags MVP>10</Total Flags MVP>
-</Dual Mounting>
-<Flak Cannon>
+<Avg.-Score>1708</Avg.-Score>
+<Avg.-Score-MVP>3061</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>7956</Avg.-Damage>
+<Avg.-Damage-MVP>17198</Avg.-Damage-MVP>
+<Avg.-Taken>8443</Avg.-Taken>
+<Avg.-Taken-MVP>9593</Avg.-Taken-MVP>
+<Avg.-Damage>7956</Avg.-Damage>
+<Avg.-Damage-MVP>17198</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>29</Total-Flags>
+<Total-Flags-MVP>10</Total-Flags-MVP>
+</Dual-Mounting>
+<Flak-Cannon>
 <Used>60 (1%)</Used>
 <MVP>6 (1%)</MVP>
-<Avg. Score>1977</Avg. Score>
-<Avg. Score MVP>3945</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7051</Avg. Damage>
-<Avg. Damage MVP>20079</Avg. Damage MVP>
-<Avg. Taken>11000</Avg. Taken>
-<Avg. Taken MVP>21504</Avg. Taken MVP>
-<Avg. Damage>7051</Avg. Damage>
-<Avg. Damage MVP>20079</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>13</Total Flags>
-<Total Flags MVP>6</Total Flags MVP>
-</Flak Cannon>
-<Heavy Gun>
+<Avg.-Score>1977</Avg.-Score>
+<Avg.-Score-MVP>3945</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7051</Avg.-Damage>
+<Avg.-Damage-MVP>20079</Avg.-Damage-MVP>
+<Avg.-Taken>11000</Avg.-Taken>
+<Avg.-Taken-MVP>21504</Avg.-Taken-MVP>
+<Avg.-Damage>7051</Avg.-Damage>
+<Avg.-Damage-MVP>20079</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>13</Total-Flags>
+<Total-Flags-MVP>6</Total-Flags-MVP>
+</Flak-Cannon>
+<Heavy-Gun>
 <Used>147 (4%)</Used>
 <MVP>18 (3%)</MVP>
-<Avg. Score>1717</Avg. Score>
-<Avg. Score MVP>2948</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8505</Avg. Damage>
-<Avg. Damage MVP>18461</Avg. Damage MVP>
-<Avg. Taken>9844</Avg. Taken>
-<Avg. Taken MVP>11588</Avg. Taken MVP>
-<Avg. Damage>8505</Avg. Damage>
-<Avg. Damage MVP>18461</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>12</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
-</Heavy Gun>
-<Heavy Cannon>
+<Avg.-Score>1717</Avg.-Score>
+<Avg.-Score-MVP>2948</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8505</Avg.-Damage>
+<Avg.-Damage-MVP>18461</Avg.-Damage-MVP>
+<Avg.-Taken>9844</Avg.-Taken>
+<Avg.-Taken-MVP>11588</Avg.-Taken-MVP>
+<Avg.-Damage>8505</Avg.-Damage>
+<Avg.-Damage-MVP>18461</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>12</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
+</Heavy-Gun>
+<Heavy-Cannon>
 <Used>426 (12%)</Used>
 <MVP>140 (27%)</MVP>
-<Avg. Score>1564</Avg. Score>
-<Avg. Score MVP>2712</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6500</Avg. Damage>
-<Avg. Damage MVP>13004</Avg. Damage MVP>
-<Avg. Taken>7630</Avg. Taken>
-<Avg. Taken MVP>9744</Avg. Taken MVP>
-<Avg. Damage>6500</Avg. Damage>
-<Avg. Damage MVP>13004</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>176</Total Flags>
-<Total Flags MVP>196</Total Flags MVP>
-</Heavy Cannon>
-<Cluster Bomb Launcher>
+<Avg.-Score>1564</Avg.-Score>
+<Avg.-Score-MVP>2712</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6500</Avg.-Damage>
+<Avg.-Damage-MVP>13004</Avg.-Damage-MVP>
+<Avg.-Taken>7630</Avg.-Taken>
+<Avg.-Taken-MVP>9744</Avg.-Taken-MVP>
+<Avg.-Damage>6500</Avg.-Damage>
+<Avg.-Damage-MVP>13004</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>176</Total-Flags>
+<Total-Flags-MVP>196</Total-Flags-MVP>
+</Heavy-Cannon>
+<Cluster-Bomb-Launcher>
 <Used>24 (0%)</Used>
 <MVP>3 (0%)</MVP>
-<Avg. Score>2160</Avg. Score>
-<Avg. Score MVP>1835</Avg. Score MVP>
-<Avg. Kills>1</Avg. Kills>
-<Avg. Kills MVP>1</Avg. Kills MVP>
-<Avg. Damage>4736</Avg. Damage>
-<Avg. Damage MVP>6508</Avg. Damage MVP>
-<Avg. Taken>6867</Avg. Taken>
-<Avg. Taken MVP>8357</Avg. Taken MVP>
-<Avg. Damage>4736</Avg. Damage>
-<Avg. Damage MVP>6508</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>3</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
-</Cluster Bomb Launcher>
+<Avg.-Score>2160</Avg.-Score>
+<Avg.-Score-MVP>1835</Avg.-Score-MVP>
+<Avg.-Kills>1</Avg.-Kills>
+<Avg.-Kills-MVP>1</Avg.-Kills-MVP>
+<Avg.-Damage>4736</Avg.-Damage>
+<Avg.-Damage-MVP>6508</Avg.-Damage-MVP>
+<Avg.-Taken>6867</Avg.-Taken>
+<Avg.-Taken-MVP>8357</Avg.-Taken-MVP>
+<Avg.-Damage>4736</Avg.-Damage>
+<Avg.-Damage-MVP>6508</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>3</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
+</Cluster-Bomb-Launcher>
 <Mortar>
 <Used>98 (2%)</Used>
 <MVP>0 (0%)</MVP>
-<Avg. Score>1645</Avg. Score>
-<Avg. Score MVP>-2147483648</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>-2147483648</Avg. Kills MVP>
-<Avg. Damage>7671</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Taken>10951</Avg. Taken>
-<Avg. Taken MVP>-2147483648</Avg. Taken MVP>
-<Avg. Damage>7671</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>-2147483648</Avg. Deaths MVP>
-<Total Flags>14</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
+<Avg.-Score>1645</Avg.-Score>
+<Avg.-Score-MVP>-2147483648</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>-2147483648</Avg.-Kills-MVP>
+<Avg.-Damage>7671</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Taken>10951</Avg.-Taken>
+<Avg.-Taken-MVP>-2147483648</Avg.-Taken-MVP>
+<Avg.-Damage>7671</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>-2147483648</Avg.-Deaths-MVP>
+<Total-Flags>14</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
 </Mortar>
-<Plasma Cannon>
+<Plasma-Cannon>
 <Used>207 (5%)</Used>
 <MVP>22 (4%)</MVP>
-<Avg. Score>1465</Avg. Score>
-<Avg. Score MVP>2742</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>14</Avg. Kills MVP>
-<Avg. Damage>8003</Avg. Damage>
-<Avg. Damage MVP>21222</Avg. Damage MVP>
-<Avg. Taken>9201</Avg. Taken>
-<Avg. Taken MVP>12732</Avg. Taken MVP>
-<Avg. Damage>8003</Avg. Damage>
-<Avg. Damage MVP>21222</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>31</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</Plasma Cannon>
-<Rifled Sniper Cannon>
+<Avg.-Score>1465</Avg.-Score>
+<Avg.-Score-MVP>2742</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>14</Avg.-Kills-MVP>
+<Avg.-Damage>8003</Avg.-Damage>
+<Avg.-Damage-MVP>21222</Avg.-Damage-MVP>
+<Avg.-Taken>9201</Avg.-Taken>
+<Avg.-Taken-MVP>12732</Avg.-Taken-MVP>
+<Avg.-Damage>8003</Avg.-Damage>
+<Avg.-Damage-MVP>21222</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>31</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</Plasma-Cannon>
+<Rifled-Sniper-Cannon>
 <Used>159 (4%)</Used>
 <MVP>40 (7%)</MVP>
-<Avg. Score>1242</Avg. Score>
-<Avg. Score MVP>2198</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>5</Avg. Kills MVP>
-<Avg. Damage>6615</Avg. Damage>
-<Avg. Damage MVP>7901</Avg. Damage MVP>
-<Avg. Taken>6509</Avg. Taken>
-<Avg. Taken MVP>6131</Avg. Taken MVP>
-<Avg. Damage>6615</Avg. Damage>
-<Avg. Damage MVP>7901</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>51</Total Flags>
-<Total Flags MVP>84</Total Flags MVP>
-</Rifled Sniper Cannon>
-<Rail Repeater>
+<Avg.-Score>1242</Avg.-Score>
+<Avg.-Score-MVP>2198</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>5</Avg.-Kills-MVP>
+<Avg.-Damage>6615</Avg.-Damage>
+<Avg.-Damage-MVP>7901</Avg.-Damage-MVP>
+<Avg.-Taken>6509</Avg.-Taken>
+<Avg.-Taken-MVP>6131</Avg.-Taken-MVP>
+<Avg.-Damage>6615</Avg.-Damage>
+<Avg.-Damage-MVP>7901</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>51</Total-Flags>
+<Total-Flags-MVP>84</Total-Flags-MVP>
+</Rifled-Sniper-Cannon>
+<Rail-Repeater>
 <Used>669 (19%)</Used>
 <MVP>107 (20%)</MVP>
-<Avg. Score>1564</Avg. Score>
-<Avg. Score MVP>2425</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>7039</Avg. Damage>
-<Avg. Damage MVP>13596</Avg. Damage MVP>
-<Avg. Taken>6711</Avg. Taken>
-<Avg. Taken MVP>7485</Avg. Taken MVP>
-<Avg. Damage>7039</Avg. Damage>
-<Avg. Damage MVP>13596</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>180</Total Flags>
-<Total Flags MVP>95</Total Flags MVP>
-</Rail Repeater>
-<Laser Beam>
+<Avg.-Score>1564</Avg.-Score>
+<Avg.-Score-MVP>2425</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>7039</Avg.-Damage>
+<Avg.-Damage-MVP>13596</Avg.-Damage-MVP>
+<Avg.-Taken>6711</Avg.-Taken>
+<Avg.-Taken-MVP>7485</Avg.-Taken-MVP>
+<Avg.-Damage>7039</Avg.-Damage>
+<Avg.-Damage-MVP>13596</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>180</Total-Flags>
+<Total-Flags-MVP>95</Total-Flags-MVP>
+</Rail-Repeater>
+<Laser-Beam>
 <Used>43 (1%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1576</Avg. Score>
-<Avg. Score MVP>2644</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6525</Avg. Damage>
-<Avg. Damage MVP>11172</Avg. Damage MVP>
-<Avg. Taken>9796</Avg. Taken>
-<Avg. Taken MVP>10198</Avg. Taken MVP>
-<Avg. Damage>6525</Avg. Damage>
-<Avg. Damage MVP>11172</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>3</Total Flags>
-<Total Flags MVP>3</Total Flags MVP>
-</Laser Beam>
-<Lightning Cannon>
+<Avg.-Score>1576</Avg.-Score>
+<Avg.-Score-MVP>2644</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6525</Avg.-Damage>
+<Avg.-Damage-MVP>11172</Avg.-Damage-MVP>
+<Avg.-Taken>9796</Avg.-Taken>
+<Avg.-Taken-MVP>10198</Avg.-Taken-MVP>
+<Avg.-Damage>6525</Avg.-Damage>
+<Avg.-Damage-MVP>11172</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>3</Total-Flags>
+<Total-Flags-MVP>3</Total-Flags-MVP>
+</Laser-Beam>
+<Lightning-Cannon>
 <Used>100 (2%)</Used>
 <MVP>6 (1%)</MVP>
-<Avg. Score>1659</Avg. Score>
-<Avg. Score MVP>3729</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>6230</Avg. Damage>
-<Avg. Damage MVP>15297</Avg. Damage MVP>
-<Avg. Taken>11231</Avg. Taken>
-<Avg. Taken MVP>12910</Avg. Taken MVP>
-<Avg. Damage>6230</Avg. Damage>
-<Avg. Damage MVP>15297</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>16</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
-</Lightning Cannon>
-<Ultra Gun>
+<Avg.-Score>1659</Avg.-Score>
+<Avg.-Score-MVP>3729</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>6230</Avg.-Damage>
+<Avg.-Damage-MVP>15297</Avg.-Damage-MVP>
+<Avg.-Taken>11231</Avg.-Taken>
+<Avg.-Taken-MVP>12910</Avg.-Taken-MVP>
+<Avg.-Damage>6230</Avg.-Damage>
+<Avg.-Damage-MVP>15297</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>16</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
+</Lightning-Cannon>
+<Ultra-Gun>
 <Used>132 (3%)</Used>
 <MVP>13 (2%)</MVP>
-<Avg. Score>1703</Avg. Score>
-<Avg. Score MVP>2313</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7361</Avg. Damage>
-<Avg. Damage MVP>18988</Avg. Damage MVP>
-<Avg. Taken>11329</Avg. Taken>
-<Avg. Taken MVP>13810</Avg. Taken MVP>
-<Avg. Damage>7361</Avg. Damage>
-<Avg. Damage MVP>18988</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>18</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Ultra Gun>
-<Fusion Cannon>
+<Avg.-Score>1703</Avg.-Score>
+<Avg.-Score-MVP>2313</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7361</Avg.-Damage>
+<Avg.-Damage-MVP>18988</Avg.-Damage-MVP>
+<Avg.-Taken>11329</Avg.-Taken>
+<Avg.-Taken-MVP>13810</Avg.-Taken-MVP>
+<Avg.-Damage>7361</Avg.-Damage>
+<Avg.-Damage-MVP>18988</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>18</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Ultra-Gun>
+<Fusion-Cannon>
 <Used>178 (5%)</Used>
 <MVP>16 (3%)</MVP>
-<Avg. Score>1541</Avg. Score>
-<Avg. Score MVP>2431</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>7756</Avg. Damage>
-<Avg. Damage MVP>19807</Avg. Damage MVP>
-<Avg. Taken>9624</Avg. Taken>
-<Avg. Taken MVP>13436</Avg. Taken MVP>
-<Avg. Damage>7756</Avg. Damage>
-<Avg. Damage MVP>19807</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>9</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</Fusion Cannon>
-<EMP Cannon>
+<Avg.-Score>1541</Avg.-Score>
+<Avg.-Score-MVP>2431</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>7756</Avg.-Damage>
+<Avg.-Damage-MVP>19807</Avg.-Damage-MVP>
+<Avg.-Taken>9624</Avg.-Taken>
+<Avg.-Taken-MVP>13436</Avg.-Taken-MVP>
+<Avg.-Damage>7756</Avg.-Damage>
+<Avg.-Damage-MVP>19807</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>9</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</Fusion-Cannon>
+<EMP-Cannon>
 <Used>345 (9%)</Used>
 <MVP>20 (3%)</MVP>
-<Avg. Score>1758</Avg. Score>
-<Avg. Score MVP>3069</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6769</Avg. Damage>
-<Avg. Damage MVP>14999</Avg. Damage MVP>
-<Avg. Taken>9721</Avg. Taken>
-<Avg. Taken MVP>15080</Avg. Taken MVP>
-<Avg. Damage>6769</Avg. Damage>
-<Avg. Damage MVP>14999</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>64</Total Flags>
-<Total Flags MVP>9</Total Flags MVP>
-</EMP Cannon>
-<Rail Cannon>
+<Avg.-Score>1758</Avg.-Score>
+<Avg.-Score-MVP>3069</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6769</Avg.-Damage>
+<Avg.-Damage-MVP>14999</Avg.-Damage-MVP>
+<Avg.-Taken>9721</Avg.-Taken>
+<Avg.-Taken-MVP>15080</Avg.-Taken-MVP>
+<Avg.-Damage>6769</Avg.-Damage>
+<Avg.-Damage-MVP>14999</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>64</Total-Flags>
+<Total-Flags-MVP>9</Total-Flags-MVP>
+</EMP-Cannon>
+<Rail-Cannon>
 <Used>916 (26%)</Used>
 <MVP>127 (24%)</MVP>
-<Avg. Score>1711</Avg. Score>
-<Avg. Score MVP>2847</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7953</Avg. Damage>
-<Avg. Damage MVP>16706</Avg. Damage MVP>
-<Avg. Taken>7799</Avg. Taken>
-<Avg. Taken MVP>11172</Avg. Taken MVP>
-<Avg. Damage>7953</Avg. Damage>
-<Avg. Damage MVP>16706</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>145</Total Flags>
-<Total Flags MVP>84</Total Flags MVP>
-</Rail Cannon>
+<Avg.-Score>1711</Avg.-Score>
+<Avg.-Score-MVP>2847</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7953</Avg.-Damage>
+<Avg.-Damage-MVP>16706</Avg.-Damage-MVP>
+<Avg.-Taken>7799</Avg.-Taken>
+<Avg.-Taken-MVP>11172</Avg.-Taken-MVP>
+<Avg.-Damage>7953</Avg.-Damage>
+<Avg.-Damage-MVP>16706</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>145</Total-Flags>
+<Total-Flags-MVP>84</Total-Flags-MVP>
+</Rail-Cannon>
 <Howitzer>
 <Used>425 (12%)</Used>
 <MVP>29 (5%)</MVP>
-<Avg. Score>1897</Avg. Score>
-<Avg. Score MVP>4074</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8972</Avg. Damage>
-<Avg. Damage MVP>20286</Avg. Damage MVP>
-<Avg. Taken>10245</Avg. Taken>
-<Avg. Taken MVP>13992</Avg. Taken MVP>
-<Avg. Damage>8972</Avg. Damage>
-<Avg. Damage MVP>20286</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>27</Total Flags>
-<Total Flags MVP>6</Total Flags MVP>
+<Avg.-Score>1897</Avg.-Score>
+<Avg.-Score-MVP>4074</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8972</Avg.-Damage>
+<Avg.-Damage-MVP>20286</Avg.-Damage-MVP>
+<Avg.-Taken>10245</Avg.-Taken>
+<Avg.-Taken-MVP>13992</Avg.-Taken-MVP>
+<Avg.-Damage>8972</Avg.-Damage>
+<Avg.-Damage-MVP>20286</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>27</Total-Flags>
+<Total-Flags-MVP>6</Total-Flags-MVP>
 </Howitzer>
-<Doomsday Cannon>
+<Doomsday-Cannon>
 <Used>276 (7%)</Used>
 <MVP>26 (5%)</MVP>
-<Avg. Score>1757</Avg. Score>
-<Avg. Score MVP>2629</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>9786</Avg. Damage>
-<Avg. Damage MVP>19114</Avg. Damage MVP>
-<Avg. Taken>13292</Avg. Taken>
-<Avg. Taken MVP>19558</Avg. Taken MVP>
-<Avg. Damage>9786</Avg. Damage>
-<Avg. Damage MVP>19114</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>27</Total Flags>
-<Total Flags MVP>7</Total Flags MVP>
-</Doomsday Cannon>
-<Solaris Laser>
+<Avg.-Score>1757</Avg.-Score>
+<Avg.-Score-MVP>2629</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>9786</Avg.-Damage>
+<Avg.-Damage-MVP>19114</Avg.-Damage-MVP>
+<Avg.-Taken>13292</Avg.-Taken>
+<Avg.-Taken-MVP>19558</Avg.-Taken-MVP>
+<Avg.-Damage>9786</Avg.-Damage>
+<Avg.-Damage-MVP>19114</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>27</Total-Flags>
+<Total-Flags-MVP>7</Total-Flags-MVP>
+</Doomsday-Cannon>
+<Solaris-Laser>
 <Used>276 (7%)</Used>
 <MVP>11 (2%)</MVP>
-<Avg. Score>1917</Avg. Score>
-<Avg. Score MVP>2963</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>7440</Avg. Damage>
-<Avg. Damage MVP>12756</Avg. Damage MVP>
-<Avg. Taken>10336</Avg. Taken>
-<Avg. Taken MVP>10100</Avg. Taken MVP>
-<Avg. Damage>7440</Avg. Damage>
-<Avg. Damage MVP>12756</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>42</Total Flags>
-<Total Flags MVP>9</Total Flags MVP>
-</Solaris Laser>
-<Rapier Missile>
+<Avg.-Score>1917</Avg.-Score>
+<Avg.-Score-MVP>2963</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>7440</Avg.-Damage>
+<Avg.-Damage-MVP>12756</Avg.-Damage-MVP>
+<Avg.-Taken>10336</Avg.-Taken>
+<Avg.-Taken-MVP>10100</Avg.-Taken-MVP>
+<Avg.-Damage>7440</Avg.-Damage>
+<Avg.-Damage-MVP>12756</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>42</Total-Flags>
+<Total-Flags-MVP>9</Total-Flags-MVP>
+</Solaris-Laser>
+<Rapier-Missile>
 <Used>98 (2%)</Used>
 <MVP>2 (0%)</MVP>
-<Avg. Score>1726</Avg. Score>
-<Avg. Score MVP>1909</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>15</Avg. Kills MVP>
-<Avg. Damage>8219</Avg. Damage>
-<Avg. Damage MVP>32467</Avg. Damage MVP>
-<Avg. Taken>15785</Avg. Taken>
-<Avg. Taken MVP>22119</Avg. Taken MVP>
-<Avg. Damage>8219</Avg. Damage>
-<Avg. Damage MVP>32467</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>12</Avg. Deaths MVP>
-<Total Flags>2</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Rapier Missile>
-<Piercer Rocket>
+<Avg.-Score>1726</Avg.-Score>
+<Avg.-Score-MVP>1909</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>15</Avg.-Kills-MVP>
+<Avg.-Damage>8219</Avg.-Damage>
+<Avg.-Damage-MVP>32467</Avg.-Damage-MVP>
+<Avg.-Taken>15785</Avg.-Taken>
+<Avg.-Taken-MVP>22119</Avg.-Taken-MVP>
+<Avg.-Damage>8219</Avg.-Damage>
+<Avg.-Damage-MVP>32467</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>12</Avg.-Deaths-MVP>
+<Total-Flags>2</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Rapier-Missile>
+<Piercer-Rocket>
 <Used>313 (9%)</Used>
 <MVP>34 (6%)</MVP>
-<Avg. Score>1713</Avg. Score>
-<Avg. Score MVP>2927</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8874</Avg. Damage>
-<Avg. Damage MVP>19194</Avg. Damage MVP>
-<Avg. Taken>12856</Avg. Taken>
-<Avg. Taken MVP>19037</Avg. Taken MVP>
-<Avg. Damage>8874</Avg. Damage>
-<Avg. Damage MVP>19194</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>35</Total Flags>
-<Total Flags MVP>2</Total Flags MVP>
-</Piercer Rocket>
-<EMP Rocket>
+<Avg.-Score>1713</Avg.-Score>
+<Avg.-Score-MVP>2927</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8874</Avg.-Damage>
+<Avg.-Damage-MVP>19194</Avg.-Damage-MVP>
+<Avg.-Taken>12856</Avg.-Taken>
+<Avg.-Taken-MVP>19037</Avg.-Taken-MVP>
+<Avg.-Damage>8874</Avg.-Damage>
+<Avg.-Damage-MVP>19194</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>35</Total-Flags>
+<Total-Flags-MVP>2</Total-Flags-MVP>
+</Piercer-Rocket>
+<EMP-Rocket>
 <Used>215 (6%)</Used>
 <MVP>34 (6%)</MVP>
-<Avg. Score>1739</Avg. Score>
-<Avg. Score MVP>3186</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>7038</Avg. Damage>
-<Avg. Damage MVP>14922</Avg. Damage MVP>
-<Avg. Taken>9820</Avg. Taken>
-<Avg. Taken MVP>12397</Avg. Taken MVP>
-<Avg. Damage>7038</Avg. Damage>
-<Avg. Damage MVP>14922</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>76</Total Flags>
-<Total Flags MVP>43</Total Flags MVP>
-</EMP Rocket>
-<Airburst Rocket>
+<Avg.-Score>1739</Avg.-Score>
+<Avg.-Score-MVP>3186</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>7038</Avg.-Damage>
+<Avg.-Damage-MVP>14922</Avg.-Damage-MVP>
+<Avg.-Taken>9820</Avg.-Taken>
+<Avg.-Taken-MVP>12397</Avg.-Taken-MVP>
+<Avg.-Damage>7038</Avg.-Damage>
+<Avg.-Damage-MVP>14922</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>76</Total-Flags>
+<Total-Flags-MVP>43</Total-Flags-MVP>
+</EMP-Rocket>
+<Airburst-Rocket>
 <Used>45 (1%)</Used>
 <MVP>1 (0%)</MVP>
-<Avg. Score>1383</Avg. Score>
-<Avg. Score MVP>2135</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>10475</Avg. Damage>
-<Avg. Damage MVP>23324</Avg. Damage MVP>
-<Avg. Taken>12039</Avg. Taken>
-<Avg. Taken MVP>5390</Avg. Taken MVP>
-<Avg. Damage>10475</Avg. Damage>
-<Avg. Damage MVP>23324</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>10</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Airburst Rocket>
+<Avg.-Score>1383</Avg.-Score>
+<Avg.-Score-MVP>2135</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>10475</Avg.-Damage>
+<Avg.-Damage-MVP>23324</Avg.-Damage-MVP>
+<Avg.-Taken>12039</Avg.-Taken>
+<Avg.-Taken-MVP>5390</Avg.-Taken-MVP>
+<Avg.-Damage>10475</Avg.-Damage>
+<Avg.-Damage-MVP>23324</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>10</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Airburst-Rocket>
 <MultiRocket>
 <Used>568 (16%)</Used>
 <MVP>60 (11%)</MVP>
-<Avg. Score>1792</Avg. Score>
-<Avg. Score MVP>3673</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8227</Avg. Damage>
-<Avg. Damage MVP>17486</Avg. Damage MVP>
-<Avg. Taken>9645</Avg. Taken>
-<Avg. Taken MVP>15481</Avg. Taken MVP>
-<Avg. Damage>8227</Avg. Damage>
-<Avg. Damage MVP>17486</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>51</Total Flags>
-<Total Flags MVP>19</Total Flags MVP>
+<Avg.-Score>1792</Avg.-Score>
+<Avg.-Score-MVP>3673</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8227</Avg.-Damage>
+<Avg.-Damage-MVP>17486</Avg.-Damage-MVP>
+<Avg.-Taken>9645</Avg.-Taken>
+<Avg.-Taken-MVP>15481</Avg.-Taken-MVP>
+<Avg.-Damage>8227</Avg.-Damage>
+<Avg.-Damage-MVP>17486</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>51</Total-Flags>
+<Total-Flags-MVP>19</Total-Flags-MVP>
 </MultiRocket>
-<Heavy Rocket>
+<Heavy-Rocket>
 <Used>242 (6%)</Used>
 <MVP>21 (4%)</MVP>
-<Avg. Score>1918</Avg. Score>
-<Avg. Score MVP>2782</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8662</Avg. Damage>
-<Avg. Damage MVP>18645</Avg. Damage MVP>
-<Avg. Taken>11034</Avg. Taken>
-<Avg. Taken MVP>17836</Avg. Taken MVP>
-<Avg. Damage>8662</Avg. Damage>
-<Avg. Damage MVP>18645</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>13</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
-</Heavy Rocket>
-<Air Death Missile>
+<Avg.-Score>1918</Avg.-Score>
+<Avg.-Score-MVP>2782</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8662</Avg.-Damage>
+<Avg.-Damage-MVP>18645</Avg.-Damage-MVP>
+<Avg.-Taken>11034</Avg.-Taken>
+<Avg.-Taken-MVP>17836</Avg.-Taken-MVP>
+<Avg.-Damage>8662</Avg.-Damage>
+<Avg.-Damage-MVP>18645</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>13</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
+</Heavy-Rocket>
+<Air-Death-Missile>
 <Used>95 (2%)</Used>
 <MVP>2 (0%)</MVP>
-<Avg. Score>1619</Avg. Score>
-<Avg. Score MVP>2725</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>16</Avg. Kills MVP>
-<Avg. Damage>8802</Avg. Damage>
-<Avg. Damage MVP>26136</Avg. Damage MVP>
-<Avg. Taken>14076</Avg. Taken>
-<Avg. Taken MVP>12692</Avg. Taken MVP>
-<Avg. Damage>8802</Avg. Damage>
-<Avg. Damage MVP>26136</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>6</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Air Death Missile>
-<Destructor Rocket>
+<Avg.-Score>1619</Avg.-Score>
+<Avg.-Score-MVP>2725</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>16</Avg.-Kills-MVP>
+<Avg.-Damage>8802</Avg.-Damage>
+<Avg.-Damage-MVP>26136</Avg.-Damage-MVP>
+<Avg.-Taken>14076</Avg.-Taken>
+<Avg.-Taken-MVP>12692</Avg.-Taken-MVP>
+<Avg.-Damage>8802</Avg.-Damage>
+<Avg.-Damage-MVP>26136</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>6</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Air-Death-Missile>
+<Destructor-Rocket>
 <Used>536 (15%)</Used>
 <MVP>75 (14%)</MVP>
-<Avg. Score>1781</Avg. Score>
-<Avg. Score MVP>3265</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>9064</Avg. Damage>
-<Avg. Damage MVP>17504</Avg. Damage MVP>
-<Avg. Taken>10557</Avg. Taken>
-<Avg. Taken MVP>13750</Avg. Taken MVP>
-<Avg. Damage>9064</Avg. Damage>
-<Avg. Damage MVP>17504</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>48</Total Flags>
-<Total Flags MVP>63</Total Flags MVP>
-</Destructor Rocket>
+<Avg.-Score>1781</Avg.-Score>
+<Avg.-Score-MVP>3265</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>9064</Avg.-Damage>
+<Avg.-Damage-MVP>17504</Avg.-Damage-MVP>
+<Avg.-Taken>10557</Avg.-Taken>
+<Avg.-Taken-MVP>13750</Avg.-Taken-MVP>
+<Avg.-Damage>9064</Avg.-Damage>
+<Avg.-Damage-MVP>17504</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>48</Total-Flags>
+<Total-Flags-MVP>63</Total-Flags-MVP>
+</Destructor-Rocket>
 <Nuke>
 <Used>781 (22%)</Used>
 <MVP>187 (36%)</MVP>
-<Avg. Score>1652</Avg. Score>
-<Avg. Score MVP>2665</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>7110</Avg. Damage>
-<Avg. Damage MVP>12450</Avg. Damage MVP>
-<Avg. Taken>7694</Avg. Taken>
-<Avg. Taken MVP>9031</Avg. Taken MVP>
-<Avg. Damage>7110</Avg. Damage>
-<Avg. Damage MVP>12450</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>256</Total Flags>
-<Total Flags MVP>275</Total Flags MVP>
+<Avg.-Score>1652</Avg.-Score>
+<Avg.-Score-MVP>2665</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>7110</Avg.-Damage>
+<Avg.-Damage-MVP>12450</Avg.-Damage-MVP>
+<Avg.-Taken>7694</Avg.-Taken>
+<Avg.-Taken-MVP>9031</Avg.-Taken-MVP>
+<Avg.-Damage>7110</Avg.-Damage>
+<Avg.-Damage-MVP>12450</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>256</Total-Flags>
+<Total-Flags-MVP>275</Total-Flags-MVP>
 </Nuke>
-<Turbo Nuke>
+<Turbo-Nuke>
 <Used>263 (7%)</Used>
 <MVP>54 (10%)</MVP>
-<Avg. Score>2403</Avg. Score>
-<Avg. Score MVP>3328</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>5956</Avg. Damage>
-<Avg. Damage MVP>9636</Avg. Damage MVP>
-<Avg. Taken>7495</Avg. Taken>
-<Avg. Taken MVP>7893</Avg. Taken MVP>
-<Avg. Damage>5956</Avg. Damage>
-<Avg. Damage MVP>9636</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>149</Total Flags>
-<Total Flags MVP>84</Total Flags MVP>
-</Turbo Nuke>
-</Weapons>/n<Modules>
-<Basic Generator>
+<Avg.-Score>2403</Avg.-Score>
+<Avg.-Score-MVP>3328</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>5956</Avg.-Damage>
+<Avg.-Damage-MVP>9636</Avg.-Damage-MVP>
+<Avg.-Taken>7495</Avg.-Taken>
+<Avg.-Taken-MVP>7893</Avg.-Taken-MVP>
+<Avg.-Damage>5956</Avg.-Damage>
+<Avg.-Damage-MVP>9636</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>149</Total-Flags>
+<Total-Flags-MVP>84</Total-Flags-MVP>
+</Turbo-Nuke>
+</Weapons>
+<Modules>
+<Basic-Generator>
 <Used>36 (1%)</Used>
 <MVP>3 (0%)</MVP>
-<Avg. Score>1749</Avg. Score>
-<Avg. Score MVP>1969</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>9090</Avg. Damage>
-<Avg. Damage MVP>20169</Avg. Damage MVP>
-<Avg. Taken>8970</Avg. Taken>
-<Avg. Taken MVP>15296</Avg. Taken MVP>
-<Avg. Damage>9090</Avg. Damage>
-<Avg. Damage MVP>20169</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>7</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Basic Generator>
-<Standard Generator>
+<Avg.-Score>1749</Avg.-Score>
+<Avg.-Score-MVP>1969</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>9090</Avg.-Damage>
+<Avg.-Damage-MVP>20169</Avg.-Damage-MVP>
+<Avg.-Taken>8970</Avg.-Taken>
+<Avg.-Taken-MVP>15296</Avg.-Taken-MVP>
+<Avg.-Damage>9090</Avg.-Damage>
+<Avg.-Damage-MVP>20169</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>7</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Basic-Generator>
+<Standard-Generator>
 <Used>43 (1%)</Used>
 <MVP>17 (3%)</MVP>
-<Avg. Score>981</Avg. Score>
-<Avg. Score MVP>2433</Avg. Score MVP>
-<Avg. Kills>2</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>4390</Avg. Damage>
-<Avg. Damage MVP>10503</Avg. Damage MVP>
-<Avg. Taken>5119</Avg. Taken>
-<Avg. Taken MVP>8549</Avg. Taken MVP>
-<Avg. Damage>4390</Avg. Damage>
-<Avg. Damage MVP>10503</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>11</Total Flags>
-<Total Flags MVP>25</Total Flags MVP>
-</Standard Generator>
-<Enhanced Generator>
+<Avg.-Score>981</Avg.-Score>
+<Avg.-Score-MVP>2433</Avg.-Score-MVP>
+<Avg.-Kills>2</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>4390</Avg.-Damage>
+<Avg.-Damage-MVP>10503</Avg.-Damage-MVP>
+<Avg.-Taken>5119</Avg.-Taken>
+<Avg.-Taken-MVP>8549</Avg.-Taken-MVP>
+<Avg.-Damage>4390</Avg.-Damage>
+<Avg.-Damage-MVP>10503</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>11</Total-Flags>
+<Total-Flags-MVP>25</Total-Flags-MVP>
+</Standard-Generator>
+<Enhanced-Generator>
 <Used>84 (2%)</Used>
 <MVP>18 (3%)</MVP>
-<Avg. Score>1667</Avg. Score>
-<Avg. Score MVP>2898</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>8397</Avg. Damage>
-<Avg. Damage MVP>16363</Avg. Damage MVP>
-<Avg. Taken>7712</Avg. Taken>
-<Avg. Taken MVP>8767</Avg. Taken MVP>
-<Avg. Damage>8397</Avg. Damage>
-<Avg. Damage MVP>16363</Avg. Damage MVP>
-<Avg. Deaths>9</Avg. Deaths>
-<Avg. Deaths MVP>11</Avg. Deaths MVP>
-<Total Flags>25</Total Flags>
-<Total Flags MVP>14</Total Flags MVP>
-</Enhanced Generator>
-<Hydrogen Generator>
+<Avg.-Score>1667</Avg.-Score>
+<Avg.-Score-MVP>2898</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>8397</Avg.-Damage>
+<Avg.-Damage-MVP>16363</Avg.-Damage-MVP>
+<Avg.-Taken>7712</Avg.-Taken>
+<Avg.-Taken-MVP>8767</Avg.-Taken-MVP>
+<Avg.-Damage>8397</Avg.-Damage>
+<Avg.-Damage-MVP>16363</Avg.-Damage-MVP>
+<Avg.-Deaths>9</Avg.-Deaths>
+<Avg.-Deaths-MVP>11</Avg.-Deaths-MVP>
+<Total-Flags>25</Total-Flags>
+<Total-Flags-MVP>14</Total-Flags-MVP>
+</Enhanced-Generator>
+<Hydrogen-Generator>
 <Used>288 (8%)</Used>
 <MVP>79 (15%)</MVP>
-<Avg. Score>1835</Avg. Score>
-<Avg. Score MVP>2942</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>6666</Avg. Damage>
-<Avg. Damage MVP>11103</Avg. Damage MVP>
-<Avg. Taken>7048</Avg. Taken>
-<Avg. Taken MVP>7171</Avg. Taken MVP>
-<Avg. Damage>6666</Avg. Damage>
-<Avg. Damage MVP>11103</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>108</Total Flags>
-<Total Flags MVP>106</Total Flags MVP>
-</Hydrogen Generator>
-<Solar Generator>
+<Avg.-Score>1835</Avg.-Score>
+<Avg.-Score-MVP>2942</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>6666</Avg.-Damage>
+<Avg.-Damage-MVP>11103</Avg.-Damage-MVP>
+<Avg.-Taken>7048</Avg.-Taken>
+<Avg.-Taken-MVP>7171</Avg.-Taken-MVP>
+<Avg.-Damage>6666</Avg.-Damage>
+<Avg.-Damage-MVP>11103</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>108</Total-Flags>
+<Total-Flags-MVP>106</Total-Flags-MVP>
+</Hydrogen-Generator>
+<Solar-Generator>
 <Used>1192 (34%)</Used>
 <MVP>164 (31%)</MVP>
-<Avg. Score>1730</Avg. Score>
-<Avg. Score MVP>2813</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>6619</Avg. Damage>
-<Avg. Damage MVP>13865</Avg. Damage MVP>
-<Avg. Taken>7036</Avg. Taken>
-<Avg. Taken MVP>9121</Avg. Taken MVP>
-<Avg. Damage>6619</Avg. Damage>
-<Avg. Damage MVP>13865</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>305</Total Flags>
-<Total Flags MVP>190</Total Flags MVP>
-</Solar Generator>
-<Atomic Generator>
+<Avg.-Score>1730</Avg.-Score>
+<Avg.-Score-MVP>2813</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>6619</Avg.-Damage>
+<Avg.-Damage-MVP>13865</Avg.-Damage-MVP>
+<Avg.-Taken>7036</Avg.-Taken>
+<Avg.-Taken-MVP>9121</Avg.-Taken-MVP>
+<Avg.-Damage>6619</Avg.-Damage>
+<Avg.-Damage-MVP>13865</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>305</Total-Flags>
+<Total-Flags-MVP>190</Total-Flags-MVP>
+</Solar-Generator>
+<Atomic-Generator>
 <Used>700 (20%)</Used>
 <MVP>53 (10%)</MVP>
-<Avg. Score>1799</Avg. Score>
-<Avg. Score MVP>2776</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>7714</Avg. Damage>
-<Avg. Damage MVP>14242</Avg. Damage MVP>
-<Avg. Taken>9219</Avg. Taken>
-<Avg. Taken MVP>11861</Avg. Taken MVP>
-<Avg. Damage>7714</Avg. Damage>
-<Avg. Damage MVP>14242</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>89</Total Flags>
-<Total Flags MVP>36</Total Flags MVP>
-</Atomic Generator>
-<Dwarf Capacitor>
+<Avg.-Score>1799</Avg.-Score>
+<Avg.-Score-MVP>2776</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>7714</Avg.-Damage>
+<Avg.-Damage-MVP>14242</Avg.-Damage-MVP>
+<Avg.-Taken>9219</Avg.-Taken>
+<Avg.-Taken-MVP>11861</Avg.-Taken-MVP>
+<Avg.-Damage>7714</Avg.-Damage>
+<Avg.-Damage-MVP>14242</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>89</Total-Flags>
+<Total-Flags-MVP>36</Total-Flags-MVP>
+</Atomic-Generator>
+<Dwarf-Capacitor>
 <Used>92 (2%)</Used>
 <MVP>15 (2%)</MVP>
-<Avg. Score>1680</Avg. Score>
-<Avg. Score MVP>2301</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>9012</Avg. Damage>
-<Avg. Damage MVP>22520</Avg. Damage MVP>
-<Avg. Taken>10094</Avg. Taken>
-<Avg. Taken MVP>13555</Avg. Taken MVP>
-<Avg. Damage>9012</Avg. Damage>
-<Avg. Damage MVP>22520</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>12</Avg. Deaths MVP>
-<Total Flags>11</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
-</Dwarf Capacitor>
-<Standard Capacitor>
+<Avg.-Score>1680</Avg.-Score>
+<Avg.-Score-MVP>2301</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>9012</Avg.-Damage>
+<Avg.-Damage-MVP>22520</Avg.-Damage-MVP>
+<Avg.-Taken>10094</Avg.-Taken>
+<Avg.-Taken-MVP>13555</Avg.-Taken-MVP>
+<Avg.-Damage>9012</Avg.-Damage>
+<Avg.-Damage-MVP>22520</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>12</Avg.-Deaths-MVP>
+<Total-Flags>11</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
+</Dwarf-Capacitor>
+<Standard-Capacitor>
 <Used>28 (0%)</Used>
 <MVP>5 (0%)</MVP>
-<Avg. Score>1366</Avg. Score>
-<Avg. Score MVP>2038</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>6435</Avg. Damage>
-<Avg. Damage MVP>23482</Avg. Damage MVP>
-<Avg. Taken>8228</Avg. Taken>
-<Avg. Taken MVP>16998</Avg. Taken MVP>
-<Avg. Damage>6435</Avg. Damage>
-<Avg. Damage MVP>23482</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>12</Avg. Deaths MVP>
-<Total Flags>10</Total Flags>
-<Total Flags MVP>3</Total Flags MVP>
-</Standard Capacitor>
-<Large Capacitor>
+<Avg.-Score>1366</Avg.-Score>
+<Avg.-Score-MVP>2038</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>6435</Avg.-Damage>
+<Avg.-Damage-MVP>23482</Avg.-Damage-MVP>
+<Avg.-Taken>8228</Avg.-Taken>
+<Avg.-Taken-MVP>16998</Avg.-Taken-MVP>
+<Avg.-Damage>6435</Avg.-Damage>
+<Avg.-Damage-MVP>23482</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>12</Avg.-Deaths-MVP>
+<Total-Flags>10</Total-Flags>
+<Total-Flags-MVP>3</Total-Flags-MVP>
+</Standard-Capacitor>
+<Large-Capacitor>
 <Used>243 (7%)</Used>
 <MVP>64 (12%)</MVP>
-<Avg. Score>1544</Avg. Score>
-<Avg. Score MVP>2495</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>7211</Avg. Damage>
-<Avg. Damage MVP>10135</Avg. Damage MVP>
-<Avg. Taken>7120</Avg. Taken>
-<Avg. Taken MVP>7167</Avg. Taken MVP>
-<Avg. Damage>7211</Avg. Damage>
-<Avg. Damage MVP>10135</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>74</Total Flags>
-<Total Flags MVP>102</Total Flags MVP>
-</Large Capacitor>
-<Giant Capacitor>
+<Avg.-Score>1544</Avg.-Score>
+<Avg.-Score-MVP>2495</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>7211</Avg.-Damage>
+<Avg.-Damage-MVP>10135</Avg.-Damage-MVP>
+<Avg.-Taken>7120</Avg.-Taken>
+<Avg.-Taken-MVP>7167</Avg.-Taken-MVP>
+<Avg.-Damage>7211</Avg.-Damage>
+<Avg.-Damage-MVP>10135</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>74</Total-Flags>
+<Total-Flags-MVP>102</Total-Flags-MVP>
+</Large-Capacitor>
+<Giant-Capacitor>
 <Used>464 (13%)</Used>
 <MVP>128 (24%)</MVP>
-<Avg. Score>1557</Avg. Score>
-<Avg. Score MVP>2830</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6958</Avg. Damage>
-<Avg. Damage MVP>14924</Avg. Damage MVP>
-<Avg. Taken>6708</Avg. Taken>
-<Avg. Taken MVP>9267</Avg. Taken MVP>
-<Avg. Damage>6958</Avg. Damage>
-<Avg. Damage MVP>14924</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>145</Total Flags>
-<Total Flags MVP>136</Total Flags MVP>
-</Giant Capacitor>
-<Sun Capacitor>
+<Avg.-Score>1557</Avg.-Score>
+<Avg.-Score-MVP>2830</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6958</Avg.-Damage>
+<Avg.-Damage-MVP>14924</Avg.-Damage-MVP>
+<Avg.-Taken>6708</Avg.-Taken>
+<Avg.-Taken-MVP>9267</Avg.-Taken-MVP>
+<Avg.-Damage>6958</Avg.-Damage>
+<Avg.-Damage-MVP>14924</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>145</Total-Flags>
+<Total-Flags-MVP>136</Total-Flags-MVP>
+</Giant-Capacitor>
+<Sun-Capacitor>
 <Used>1975 (57%)</Used>
 <MVP>253 (48%)</MVP>
-<Avg. Score>1822</Avg. Score>
-<Avg. Score MVP>2936</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>7295</Avg. Damage>
-<Avg. Damage MVP>14170</Avg. Damage MVP>
-<Avg. Taken>8024</Avg. Taken>
-<Avg. Taken MVP>9969</Avg. Taken MVP>
-<Avg. Damage>7295</Avg. Damage>
-<Avg. Damage MVP>14170</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>426</Total Flags>
-<Total Flags MVP>245</Total Flags MVP>
-</Sun Capacitor>
-<Light Energy Shield>
+<Avg.-Score>1822</Avg.-Score>
+<Avg.-Score-MVP>2936</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>7295</Avg.-Damage>
+<Avg.-Damage-MVP>14170</Avg.-Damage-MVP>
+<Avg.-Taken>8024</Avg.-Taken>
+<Avg.-Taken-MVP>9969</Avg.-Taken-MVP>
+<Avg.-Damage>7295</Avg.-Damage>
+<Avg.-Damage-MVP>14170</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>426</Total-Flags>
+<Total-Flags-MVP>245</Total-Flags-MVP>
+</Sun-Capacitor>
+<Light-Energy-Shield>
 <Used>0 (0%)</Used>
 <MVP>0 (0%)</MVP>
-<Avg. Score>-2147483648</Avg. Score>
-<Avg. Score MVP>-2147483648</Avg. Score MVP>
-<Avg. Kills>-2147483648</Avg. Kills>
-<Avg. Kills MVP>-2147483648</Avg. Kills MVP>
-<Avg. Damage>-2147483648</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Taken>-2147483648</Avg. Taken>
-<Avg. Taken MVP>-2147483648</Avg. Taken MVP>
-<Avg. Damage>-2147483648</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Deaths>-2147483648</Avg. Deaths>
-<Avg. Deaths MVP>-2147483648</Avg. Deaths MVP>
-<Total Flags>0</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Light Energy Shield>
-<Phase Energy Shield>
+<Avg.-Score>-2147483648</Avg.-Score>
+<Avg.-Score-MVP>-2147483648</Avg.-Score-MVP>
+<Avg.-Kills>-2147483648</Avg.-Kills>
+<Avg.-Kills-MVP>-2147483648</Avg.-Kills-MVP>
+<Avg.-Damage>-2147483648</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Taken>-2147483648</Avg.-Taken>
+<Avg.-Taken-MVP>-2147483648</Avg.-Taken-MVP>
+<Avg.-Damage>-2147483648</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Deaths>-2147483648</Avg.-Deaths>
+<Avg.-Deaths-MVP>-2147483648</Avg.-Deaths-MVP>
+<Total-Flags>0</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Light-Energy-Shield>
+<Phase-Energy-Shield>
 <Used>2 (0%)</Used>
 <MVP>0 (0%)</MVP>
-<Avg. Score>948</Avg. Score>
-<Avg. Score MVP>-2147483648</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>-2147483648</Avg. Kills MVP>
-<Avg. Damage>5314</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Taken>12990</Avg. Taken>
-<Avg. Taken MVP>-2147483648</Avg. Taken MVP>
-<Avg. Damage>5314</Avg. Damage>
-<Avg. Damage MVP>-2147483648</Avg. Damage MVP>
-<Avg. Deaths>15</Avg. Deaths>
-<Avg. Deaths MVP>-2147483648</Avg. Deaths MVP>
-<Total Flags>0</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Phase Energy Shield>
-<Radiant Energy Shield>
+<Avg.-Score>948</Avg.-Score>
+<Avg.-Score-MVP>-2147483648</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>-2147483648</Avg.-Kills-MVP>
+<Avg.-Damage>5314</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Taken>12990</Avg.-Taken>
+<Avg.-Taken-MVP>-2147483648</Avg.-Taken-MVP>
+<Avg.-Damage>5314</Avg.-Damage>
+<Avg.-Damage-MVP>-2147483648</Avg.-Damage-MVP>
+<Avg.-Deaths>15</Avg.-Deaths>
+<Avg.-Deaths-MVP>-2147483648</Avg.-Deaths-MVP>
+<Total-Flags>0</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Phase-Energy-Shield>
+<Radiant-Energy-Shield>
 <Used>6 (0%)</Used>
 <MVP>1 (0%)</MVP>
-<Avg. Score>534</Avg. Score>
-<Avg. Score MVP>3194</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>5474</Avg. Damage>
-<Avg. Damage MVP>18711</Avg. Damage MVP>
-<Avg. Taken>8907</Avg. Taken>
-<Avg. Taken MVP>5037</Avg. Taken MVP>
-<Avg. Damage>5474</Avg. Damage>
-<Avg. Damage MVP>18711</Avg. Damage MVP>
-<Avg. Deaths>9</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>0</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Radiant Energy Shield>
-<Hyper Energy Shield>
+<Avg.-Score>534</Avg.-Score>
+<Avg.-Score-MVP>3194</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>5474</Avg.-Damage>
+<Avg.-Damage-MVP>18711</Avg.-Damage-MVP>
+<Avg.-Taken>8907</Avg.-Taken>
+<Avg.-Taken-MVP>5037</Avg.-Taken-MVP>
+<Avg.-Damage>5474</Avg.-Damage>
+<Avg.-Damage-MVP>18711</Avg.-Damage-MVP>
+<Avg.-Deaths>9</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>0</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Radiant-Energy-Shield>
+<Hyper-Energy-Shield>
 <Used>223 (6%)</Used>
 <MVP>80 (15%)</MVP>
-<Avg. Score>1641</Avg. Score>
-<Avg. Score MVP>2726</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>5998</Avg. Damage>
-<Avg. Damage MVP>11375</Avg. Damage MVP>
-<Avg. Taken>6061</Avg. Taken>
-<Avg. Taken MVP>7391</Avg. Taken MVP>
-<Avg. Damage>5998</Avg. Damage>
-<Avg. Damage MVP>11375</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>82</Total Flags>
-<Total Flags MVP>120</Total Flags MVP>
-</Hyper Energy Shield>
-<Interlaced Energy Shield>
+<Avg.-Score>1641</Avg.-Score>
+<Avg.-Score-MVP>2726</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>5998</Avg.-Damage>
+<Avg.-Damage-MVP>11375</Avg.-Damage-MVP>
+<Avg.-Taken>6061</Avg.-Taken>
+<Avg.-Taken-MVP>7391</Avg.-Taken-MVP>
+<Avg.-Damage>5998</Avg.-Damage>
+<Avg.-Damage-MVP>11375</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>82</Total-Flags>
+<Total-Flags-MVP>120</Total-Flags-MVP>
+</Hyper-Energy-Shield>
+<Interlaced-Energy-Shield>
 <Used>406 (11%)</Used>
 <MVP>47 (9%)</MVP>
-<Avg. Score>1777</Avg. Score>
-<Avg. Score MVP>2317</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>7</Avg. Kills MVP>
-<Avg. Damage>7155</Avg. Damage>
-<Avg. Damage MVP>12833</Avg. Damage MVP>
-<Avg. Taken>8788</Avg. Taken>
-<Avg. Taken MVP>9829</Avg. Taken MVP>
-<Avg. Damage>7155</Avg. Damage>
-<Avg. Damage MVP>12833</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>136</Total Flags>
-<Total Flags MVP>49</Total Flags MVP>
-</Interlaced Energy Shield>
-<Charged Plating>
+<Avg.-Score>1777</Avg.-Score>
+<Avg.-Score-MVP>2317</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>7</Avg.-Kills-MVP>
+<Avg.-Damage>7155</Avg.-Damage>
+<Avg.-Damage-MVP>12833</Avg.-Damage-MVP>
+<Avg.-Taken>8788</Avg.-Taken>
+<Avg.-Taken-MVP>9829</Avg.-Taken-MVP>
+<Avg.-Damage>7155</Avg.-Damage>
+<Avg.-Damage-MVP>12833</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>136</Total-Flags>
+<Total-Flags-MVP>49</Total-Flags-MVP>
+</Interlaced-Energy-Shield>
+<Charged-Plating>
 <Used>91 (2%)</Used>
 <MVP>14 (2%)</MVP>
-<Avg. Score>1811</Avg. Score>
-<Avg. Score MVP>2950</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>13</Avg. Kills MVP>
-<Avg. Damage>8154</Avg. Damage>
-<Avg. Damage MVP>23029</Avg. Damage MVP>
-<Avg. Taken>10824</Avg. Taken>
-<Avg. Taken MVP>22651</Avg. Taken MVP>
-<Avg. Damage>8154</Avg. Damage>
-<Avg. Damage MVP>23029</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>7</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Charged Plating>
-<EMP Plating>
+<Avg.-Score>1811</Avg.-Score>
+<Avg.-Score-MVP>2950</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>13</Avg.-Kills-MVP>
+<Avg.-Damage>8154</Avg.-Damage>
+<Avg.-Damage-MVP>23029</Avg.-Damage-MVP>
+<Avg.-Taken>10824</Avg.-Taken>
+<Avg.-Taken-MVP>22651</Avg.-Taken-MVP>
+<Avg.-Damage>8154</Avg.-Damage>
+<Avg.-Damage-MVP>23029</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>7</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Charged-Plating>
+<EMP-Plating>
 <Used>1025 (29%)</Used>
 <MVP>109 (21%)</MVP>
-<Avg. Score>1838</Avg. Score>
-<Avg. Score MVP>3241</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>7146</Avg. Damage>
-<Avg. Damage MVP>15933</Avg. Damage MVP>
-<Avg. Taken>7640</Avg. Taken>
-<Avg. Taken MVP>10854</Avg. Taken MVP>
-<Avg. Damage>7146</Avg. Damage>
-<Avg. Damage MVP>15933</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>204</Total Flags>
-<Total Flags MVP>67</Total Flags MVP>
-</EMP Plating>
-<Kinetic Plating>
+<Avg.-Score>1838</Avg.-Score>
+<Avg.-Score-MVP>3241</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>7146</Avg.-Damage>
+<Avg.-Damage-MVP>15933</Avg.-Damage-MVP>
+<Avg.-Taken>7640</Avg.-Taken>
+<Avg.-Taken-MVP>10854</Avg.-Taken-MVP>
+<Avg.-Damage>7146</Avg.-Damage>
+<Avg.-Damage-MVP>15933</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>204</Total-Flags>
+<Total-Flags-MVP>67</Total-Flags-MVP>
+</EMP-Plating>
+<Kinetic-Plating>
 <Used>448 (12%)</Used>
 <MVP>44 (8%)</MVP>
-<Avg. Score>1607</Avg. Score>
-<Avg. Score MVP>2392</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>8022</Avg. Damage>
-<Avg. Damage MVP>14303</Avg. Damage MVP>
-<Avg. Taken>9855</Avg. Taken>
-<Avg. Taken MVP>12352</Avg. Taken MVP>
-<Avg. Damage>8022</Avg. Damage>
-<Avg. Damage MVP>14303</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>107</Total Flags>
-<Total Flags MVP>44</Total Flags MVP>
-</Kinetic Plating>
-<Blast Plating>
+<Avg.-Score>1607</Avg.-Score>
+<Avg.-Score-MVP>2392</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>8022</Avg.-Damage>
+<Avg.-Damage-MVP>14303</Avg.-Damage-MVP>
+<Avg.-Taken>9855</Avg.-Taken>
+<Avg.-Taken-MVP>12352</Avg.-Taken-MVP>
+<Avg.-Damage>8022</Avg.-Damage>
+<Avg.-Damage-MVP>14303</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>107</Total-Flags>
+<Total-Flags-MVP>44</Total-Flags-MVP>
+</Kinetic-Plating>
+<Blast-Plating>
 <Used>420 (12%)</Used>
 <MVP>54 (10%)</MVP>
-<Avg. Score>1689</Avg. Score>
-<Avg. Score MVP>3313</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8265</Avg. Damage>
-<Avg. Damage MVP>18280</Avg. Damage MVP>
-<Avg. Taken>10475</Avg. Taken>
-<Avg. Taken MVP>16058</Avg. Taken MVP>
-<Avg. Damage>8265</Avg. Damage>
-<Avg. Damage MVP>18280</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>69</Total Flags>
-<Total Flags MVP>31</Total Flags MVP>
-</Blast Plating>
+<Avg.-Score>1689</Avg.-Score>
+<Avg.-Score-MVP>3313</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8265</Avg.-Damage>
+<Avg.-Damage-MVP>18280</Avg.-Damage-MVP>
+<Avg.-Taken>10475</Avg.-Taken>
+<Avg.-Taken-MVP>16058</Avg.-Taken-MVP>
+<Avg.-Damage>8265</Avg.-Damage>
+<Avg.-Damage-MVP>18280</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>69</Total-Flags>
+<Total-Flags-MVP>31</Total-Flags-MVP>
+</Blast-Plating>
 <Targeter>
 <Used>428 (12%)</Used>
 <MVP>25 (4%)</MVP>
-<Avg. Score>1763</Avg. Score>
-<Avg. Score MVP>2843</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>7531</Avg. Damage>
-<Avg. Damage MVP>15400</Avg. Damage MVP>
-<Avg. Taken>10519</Avg. Taken>
-<Avg. Taken MVP>10153</Avg. Taken MVP>
-<Avg. Damage>7531</Avg. Damage>
-<Avg. Damage MVP>15400</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>10</Avg. Deaths MVP>
-<Total Flags>65</Total Flags>
-<Total Flags MVP>16</Total Flags MVP>
+<Avg.-Score>1763</Avg.-Score>
+<Avg.-Score-MVP>2843</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>7531</Avg.-Damage>
+<Avg.-Damage-MVP>15400</Avg.-Damage-MVP>
+<Avg.-Taken>10519</Avg.-Taken>
+<Avg.-Taken-MVP>10153</Avg.-Taken-MVP>
+<Avg.-Damage>7531</Avg.-Damage>
+<Avg.-Damage-MVP>15400</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>10</Avg.-Deaths-MVP>
+<Total-Flags>65</Total-Flags>
+<Total-Flags-MVP>16</Total-Flags-MVP>
 </Targeter>
-<Projectile Interception Node>
+<Projectile-Interception-Node>
 <Used>36 (1%)</Used>
 <MVP>4 (0%)</MVP>
-<Avg. Score>1468</Avg. Score>
-<Avg. Score MVP>1925</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>5914</Avg. Damage>
-<Avg. Damage MVP>13120</Avg. Damage MVP>
-<Avg. Taken>8382</Avg. Taken>
-<Avg. Taken MVP>5050</Avg. Taken MVP>
-<Avg. Damage>5914</Avg. Damage>
-<Avg. Damage MVP>13120</Avg. Damage MVP>
-<Avg. Deaths>7</Avg. Deaths>
-<Avg. Deaths MVP>8</Avg. Deaths MVP>
-<Total Flags>3</Total Flags>
-<Total Flags MVP>5</Total Flags MVP>
-</Projectile Interception Node>
-<Missile Scrambler>
+<Avg.-Score>1468</Avg.-Score>
+<Avg.-Score-MVP>1925</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>5914</Avg.-Damage>
+<Avg.-Damage-MVP>13120</Avg.-Damage-MVP>
+<Avg.-Taken>8382</Avg.-Taken>
+<Avg.-Taken-MVP>5050</Avg.-Taken-MVP>
+<Avg.-Damage>5914</Avg.-Damage>
+<Avg.-Damage-MVP>13120</Avg.-Damage-MVP>
+<Avg.-Deaths>7</Avg.-Deaths>
+<Avg.-Deaths-MVP>8</Avg.-Deaths-MVP>
+<Total-Flags>3</Total-Flags>
+<Total-Flags-MVP>5</Total-Flags-MVP>
+</Projectile-Interception-Node>
+<Missile-Scrambler>
 <Used>92 (2%)</Used>
 <MVP>6 (1%)</MVP>
-<Avg. Score>2001</Avg. Score>
-<Avg. Score MVP>2440</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>7838</Avg. Damage>
-<Avg. Damage MVP>11883</Avg. Damage MVP>
-<Avg. Taken>9034</Avg. Taken>
-<Avg. Taken MVP>10976</Avg. Taken MVP>
-<Avg. Damage>7838</Avg. Damage>
-<Avg. Damage MVP>11883</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>12</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</Missile Scrambler>
+<Avg.-Score>2001</Avg.-Score>
+<Avg.-Score-MVP>2440</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>7838</Avg.-Damage>
+<Avg.-Damage-MVP>11883</Avg.-Damage-MVP>
+<Avg.-Taken>9034</Avg.-Taken>
+<Avg.-Taken-MVP>10976</Avg.-Taken-MVP>
+<Avg.-Damage>7838</Avg.-Damage>
+<Avg.-Damage-MVP>11883</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>12</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</Missile-Scrambler>
 <Scanner>
 <Used>1770 (51%)</Used>
 <MVP>259 (50%)</MVP>
-<Avg. Score>1819</Avg. Score>
-<Avg. Score MVP>2853</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>8001</Avg. Damage>
-<Avg. Damage MVP>14303</Avg. Damage MVP>
-<Avg. Taken>7997</Avg. Taken>
-<Avg. Taken MVP>9496</Avg. Taken MVP>
-<Avg. Damage>8001</Avg. Damage>
-<Avg. Damage MVP>14303</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>341</Total Flags>
-<Total Flags MVP>261</Total Flags MVP>
+<Avg.-Score>1819</Avg.-Score>
+<Avg.-Score-MVP>2853</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>8001</Avg.-Damage>
+<Avg.-Damage-MVP>14303</Avg.-Damage-MVP>
+<Avg.-Taken>7997</Avg.-Taken>
+<Avg.-Taken-MVP>9496</Avg.-Taken-MVP>
+<Avg.-Damage>8001</Avg.-Damage>
+<Avg.-Damage-MVP>14303</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>341</Total-Flags>
+<Total-Flags-MVP>261</Total-Flags-MVP>
 </Scanner>
-<Spectral Cloaking Device>
+<Spectral-Cloaking-Device>
 <Used>946 (27%)</Used>
 <MVP>122 (23%)</MVP>
-<Avg. Score>1858</Avg. Score>
-<Avg. Score MVP>2797</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>7248</Avg. Damage>
-<Avg. Damage MVP>13494</Avg. Damage MVP>
-<Avg. Taken>7296</Avg. Taken>
-<Avg. Taken MVP>7983</Avg. Taken MVP>
-<Avg. Damage>7248</Avg. Damage>
-<Avg. Damage MVP>13494</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>217</Total Flags>
-<Total Flags MVP>123</Total Flags MVP>
-</Spectral Cloaking Device>
-<Rapid Loader>
+<Avg.-Score>1858</Avg.-Score>
+<Avg.-Score-MVP>2797</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>7248</Avg.-Damage>
+<Avg.-Damage-MVP>13494</Avg.-Damage-MVP>
+<Avg.-Taken>7296</Avg.-Taken>
+<Avg.-Taken-MVP>7983</Avg.-Taken-MVP>
+<Avg.-Damage>7248</Avg.-Damage>
+<Avg.-Damage-MVP>13494</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>217</Total-Flags>
+<Total-Flags-MVP>123</Total-Flags-MVP>
+</Spectral-Cloaking-Device>
+<Rapid-Loader>
 <Used>474 (13%)</Used>
 <MVP>63 (12%)</MVP>
-<Avg. Score>1574</Avg. Score>
-<Avg. Score MVP>2283</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>8334</Avg. Damage>
-<Avg. Damage MVP>14426</Avg. Damage MVP>
-<Avg. Taken>9448</Avg. Taken>
-<Avg. Taken MVP>11543</Avg. Taken MVP>
-<Avg. Damage>8334</Avg. Damage>
-<Avg. Damage MVP>14426</Avg. Damage MVP>
-<Avg. Deaths>5</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>51</Total Flags>
-<Total Flags MVP>77</Total Flags MVP>
-</Rapid Loader>
-<Plasma Coolant System>
+<Avg.-Score>1574</Avg.-Score>
+<Avg.-Score-MVP>2283</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>8334</Avg.-Damage>
+<Avg.-Damage-MVP>14426</Avg.-Damage-MVP>
+<Avg.-Taken>9448</Avg.-Taken>
+<Avg.-Taken-MVP>11543</Avg.-Taken-MVP>
+<Avg.-Damage>8334</Avg.-Damage>
+<Avg.-Damage-MVP>14426</Avg.-Damage-MVP>
+<Avg.-Deaths>5</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>51</Total-Flags>
+<Total-Flags-MVP>77</Total-Flags-MVP>
+</Rapid-Loader>
+<Plasma-Coolant-System>
 <Used>225 (6%)</Used>
 <MVP>24 (4%)</MVP>
-<Avg. Score>1523</Avg. Score>
-<Avg. Score MVP>2586</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>7521</Avg. Damage>
-<Avg. Damage MVP>18196</Avg. Damage MVP>
-<Avg. Taken>9019</Avg. Taken>
-<Avg. Taken MVP>12059</Avg. Taken MVP>
-<Avg. Damage>7521</Avg. Damage>
-<Avg. Damage MVP>18196</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>21</Total Flags>
-<Total Flags MVP>8</Total Flags MVP>
-</Plasma Coolant System>
-<Photonic Overdriver>
+<Avg.-Score>1523</Avg.-Score>
+<Avg.-Score-MVP>2586</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>7521</Avg.-Damage>
+<Avg.-Damage-MVP>18196</Avg.-Damage-MVP>
+<Avg.-Taken>9019</Avg.-Taken>
+<Avg.-Taken-MVP>12059</Avg.-Taken-MVP>
+<Avg.-Damage>7521</Avg.-Damage>
+<Avg.-Damage-MVP>18196</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>21</Total-Flags>
+<Total-Flags-MVP>8</Total-Flags-MVP>
+</Plasma-Coolant-System>
+<Photonic-Overdriver>
 <Used>177 (5%)</Used>
 <MVP>18 (3%)</MVP>
-<Avg. Score>1833</Avg. Score>
-<Avg. Score MVP>3399</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>12</Avg. Kills MVP>
-<Avg. Damage>8336</Avg. Damage>
-<Avg. Damage MVP>18567</Avg. Damage MVP>
-<Avg. Taken>8926</Avg. Taken>
-<Avg. Taken MVP>10189</Avg. Taken MVP>
-<Avg. Damage>8336</Avg. Damage>
-<Avg. Damage MVP>18567</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>10</Total Flags>
-<Total Flags MVP>1</Total Flags MVP>
-</Photonic Overdriver>
-<Ordnance Stabilizers>
+<Avg.-Score>1833</Avg.-Score>
+<Avg.-Score-MVP>3399</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>12</Avg.-Kills-MVP>
+<Avg.-Damage>8336</Avg.-Damage>
+<Avg.-Damage-MVP>18567</Avg.-Damage-MVP>
+<Avg.-Taken>8926</Avg.-Taken>
+<Avg.-Taken-MVP>10189</Avg.-Taken-MVP>
+<Avg.-Damage>8336</Avg.-Damage>
+<Avg.-Damage-MVP>18567</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>10</Total-Flags>
+<Total-Flags-MVP>1</Total-Flags-MVP>
+</Photonic-Overdriver>
+<Ordnance-Stabilizers>
 <Used>1105 (31%)</Used>
 <MVP>118 (22%)</MVP>
-<Avg. Score>1659</Avg. Score>
-<Avg. Score MVP>2691</Avg. Score MVP>
-<Avg. Kills>4</Avg. Kills>
-<Avg. Kills MVP>9</Avg. Kills MVP>
-<Avg. Damage>6894</Avg. Damage>
-<Avg. Damage MVP>14231</Avg. Damage MVP>
-<Avg. Taken>7908</Avg. Taken>
-<Avg. Taken MVP>9132</Avg. Taken MVP>
-<Avg. Damage>6894</Avg. Damage>
-<Avg. Damage MVP>14231</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>241</Total Flags>
-<Total Flags MVP>99</Total Flags MVP>
-</Ordnance Stabilizers>
-<Emergency Teleportation Apparatus>
+<Avg.-Score>1659</Avg.-Score>
+<Avg.-Score-MVP>2691</Avg.-Score-MVP>
+<Avg.-Kills>4</Avg.-Kills>
+<Avg.-Kills-MVP>9</Avg.-Kills-MVP>
+<Avg.-Damage>6894</Avg.-Damage>
+<Avg.-Damage-MVP>14231</Avg.-Damage-MVP>
+<Avg.-Taken>7908</Avg.-Taken>
+<Avg.-Taken-MVP>9132</Avg.-Taken-MVP>
+<Avg.-Damage>6894</Avg.-Damage>
+<Avg.-Damage-MVP>14231</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>241</Total-Flags>
+<Total-Flags-MVP>99</Total-Flags-MVP>
+</Ordnance-Stabilizers>
+<Emergency-Teleportation-Apparatus>
 <Used>308 (8%)</Used>
 <MVP>26 (5%)</MVP>
-<Avg. Score>2176</Avg. Score>
-<Avg. Score MVP>4217</Avg. Score MVP>
-<Avg. Kills>6</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>9846</Avg. Damage>
-<Avg. Damage MVP>18978</Avg. Damage MVP>
-<Avg. Taken>10390</Avg. Taken>
-<Avg. Taken MVP>14699</Avg. Taken MVP>
-<Avg. Damage>9846</Avg. Damage>
-<Avg. Damage MVP>18978</Avg. Damage MVP>
-<Avg. Deaths>4</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>8</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Emergency Teleportation Apparatus>
-<Gravity Pods>
+<Avg.-Score>2176</Avg.-Score>
+<Avg.-Score-MVP>4217</Avg.-Score-MVP>
+<Avg.-Kills>6</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>9846</Avg.-Damage>
+<Avg.-Damage-MVP>18978</Avg.-Damage-MVP>
+<Avg.-Taken>10390</Avg.-Taken>
+<Avg.-Taken-MVP>14699</Avg.-Taken-MVP>
+<Avg.-Damage>9846</Avg.-Damage>
+<Avg.-Damage-MVP>18978</Avg.-Damage-MVP>
+<Avg.-Deaths>4</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>8</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Emergency-Teleportation-Apparatus>
+<Gravity-Pods>
 <Used>446 (12%)</Used>
 <MVP>35 (6%)</MVP>
-<Avg. Score>1650</Avg. Score>
-<Avg. Score MVP>2802</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>10</Avg. Kills MVP>
-<Avg. Damage>8951</Avg. Damage>
-<Avg. Damage MVP>19398</Avg. Damage MVP>
-<Avg. Taken>13994</Avg. Taken>
-<Avg. Taken MVP>20971</Avg. Taken MVP>
-<Avg. Damage>8951</Avg. Damage>
-<Avg. Damage MVP>19398</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>7</Avg. Deaths MVP>
-<Total Flags>34</Total Flags>
-<Total Flags MVP>2</Total Flags MVP>
-</Gravity Pods>
-<Thrust Stabilizers>
+<Avg.-Score>1650</Avg.-Score>
+<Avg.-Score-MVP>2802</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>10</Avg.-Kills-MVP>
+<Avg.-Damage>8951</Avg.-Damage>
+<Avg.-Damage-MVP>19398</Avg.-Damage-MVP>
+<Avg.-Taken>13994</Avg.-Taken>
+<Avg.-Taken-MVP>20971</Avg.-Taken-MVP>
+<Avg.-Damage>8951</Avg.-Damage>
+<Avg.-Damage-MVP>19398</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>7</Avg.-Deaths-MVP>
+<Total-Flags>34</Total-Flags>
+<Total-Flags-MVP>2</Total-Flags-MVP>
+</Gravity-Pods>
+<Thrust-Stabilizers>
 <Used>709 (20%)</Used>
 <MVP>160 (30%)</MVP>
-<Avg. Score>1328</Avg. Score>
-<Avg. Score MVP>2505</Avg. Score MVP>
-<Avg. Kills>3</Avg. Kills>
-<Avg. Kills MVP>8</Avg. Kills MVP>
-<Avg. Damage>6035</Avg. Damage>
-<Avg. Damage MVP>14213</Avg. Damage MVP>
-<Avg. Taken>6160</Avg. Taken>
-<Avg. Taken MVP>9277</Avg. Taken MVP>
-<Avg. Damage>6035</Avg. Damage>
-<Avg. Damage MVP>14213</Avg. Damage MVP>
-<Avg. Deaths>6</Avg. Deaths>
-<Avg. Deaths MVP>9</Avg. Deaths MVP>
-<Total Flags>227</Total Flags>
-<Total Flags MVP>200</Total Flags MVP>
-</Thrust Stabilizers>
-<EMP Blast>
+<Avg.-Score>1328</Avg.-Score>
+<Avg.-Score-MVP>2505</Avg.-Score-MVP>
+<Avg.-Kills>3</Avg.-Kills>
+<Avg.-Kills-MVP>8</Avg.-Kills-MVP>
+<Avg.-Damage>6035</Avg.-Damage>
+<Avg.-Damage-MVP>14213</Avg.-Damage-MVP>
+<Avg.-Taken>6160</Avg.-Taken>
+<Avg.-Taken-MVP>9277</Avg.-Taken-MVP>
+<Avg.-Damage>6035</Avg.-Damage>
+<Avg.-Damage-MVP>14213</Avg.-Damage-MVP>
+<Avg.-Deaths>6</Avg.-Deaths>
+<Avg.-Deaths-MVP>9</Avg.-Deaths-MVP>
+<Total-Flags>227</Total-Flags>
+<Total-Flags-MVP>200</Total-Flags-MVP>
+</Thrust-Stabilizers>
+<EMP-Blast>
 <Used>28 (0%)</Used>
 <MVP>3 (0%)</MVP>
-<Avg. Score>2789</Avg. Score>
-<Avg. Score MVP>3061</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>6</Avg. Kills MVP>
-<Avg. Damage>7596</Avg. Damage>
-<Avg. Damage MVP>7046</Avg. Damage MVP>
-<Avg. Taken>9835</Avg. Taken>
-<Avg. Taken MVP>6649</Avg. Taken MVP>
-<Avg. Damage>7596</Avg. Damage>
-<Avg. Damage MVP>7046</Avg. Damage MVP>
-<Avg. Deaths>8</Avg. Deaths>
-<Avg. Deaths MVP>5</Avg. Deaths MVP>
-<Total Flags>14</Total Flags>
-<Total Flags MVP>4</Total Flags MVP>
-</EMP Blast>
-<Nanite Repair Kit>
+<Avg.-Score>2789</Avg.-Score>
+<Avg.-Score-MVP>3061</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>6</Avg.-Kills-MVP>
+<Avg.-Damage>7596</Avg.-Damage>
+<Avg.-Damage-MVP>7046</Avg.-Damage-MVP>
+<Avg.-Taken>9835</Avg.-Taken>
+<Avg.-Taken-MVP>6649</Avg.-Taken-MVP>
+<Avg.-Damage>7596</Avg.-Damage>
+<Avg.-Damage-MVP>7046</Avg.-Damage-MVP>
+<Avg.-Deaths>8</Avg.-Deaths>
+<Avg.-Deaths-MVP>5</Avg.-Deaths-MVP>
+<Total-Flags>14</Total-Flags>
+<Total-Flags-MVP>4</Total-Flags-MVP>
+</EMP-Blast>
+<Nanite-Repair-Kit>
 <Used>360 (10%)</Used>
 <MVP>20 (3%)</MVP>
-<Avg. Score>1925</Avg. Score>
-<Avg. Score MVP>3190</Avg. Score MVP>
-<Avg. Kills>5</Avg. Kills>
-<Avg. Kills MVP>11</Avg. Kills MVP>
-<Avg. Damage>8128</Avg. Damage>
-<Avg. Damage MVP>20096</Avg. Damage MVP>
-<Avg. Taken>9756</Avg. Taken>
-<Avg. Taken MVP>19253</Avg. Taken MVP>
-<Avg. Damage>8128</Avg. Damage>
-<Avg. Damage MVP>20096</Avg. Damage MVP>
-<Avg. Deaths>3</Avg. Deaths>
-<Avg. Deaths MVP>6</Avg. Deaths MVP>
-<Total Flags>11</Total Flags>
-<Total Flags MVP>0</Total Flags MVP>
-</Nanite Repair Kit>
-</Modules>/n</Planets>
+<Avg.-Score>1925</Avg.-Score>
+<Avg.-Score-MVP>3190</Avg.-Score-MVP>
+<Avg.-Kills>5</Avg.-Kills>
+<Avg.-Kills-MVP>11</Avg.-Kills-MVP>
+<Avg.-Damage>8128</Avg.-Damage>
+<Avg.-Damage-MVP>20096</Avg.-Damage-MVP>
+<Avg.-Taken>9756</Avg.-Taken>
+<Avg.-Taken-MVP>19253</Avg.-Taken-MVP>
+<Avg.-Damage>8128</Avg.-Damage>
+<Avg.-Damage-MVP>20096</Avg.-Damage-MVP>
+<Avg.-Deaths>3</Avg.-Deaths>
+<Avg.-Deaths-MVP>6</Avg.-Deaths-MVP>
+<Total-Flags>11</Total-Flags>
+<Total-Flags-MVP>0</Total-Flags-MVP>
+</Nanite-Repair-Kit>
+</Modules>
+<Planets>
 <Ilola>128 (24%)</Ilola>
-<Kalpa Prime>91 (17%)</Kalpa Prime>
+<Kalpa-Prime>91 (17%)</Kalpa-Prime>
 <Lumicaro>54 (10%)</Lumicaro>
 <Solano>51 (9%)</Solano>
 <Omegnius>48 (9%)</Omegnius>
 <Allombus>47 (9%)</Allombus>
-<Carnace Minor>33 (6%)</Carnace Minor>
+<Carnace-Minor>33 (6%)</Carnace-Minor>
 <Fleet>32 (6%)</Fleet>
-<Carnace Major>13 (2%)</Carnace Major>
-<Warped Matter>8 (1%)</Warped Matter>
+<Carnace-Major>13 (2%)</Carnace-Major>
+<Warped-Matter>8 (1%)</Warped-Matter>
 <Allinds>7 (1%)</Allinds>
 <Krikorian>4 (0%)</Krikorian>
 <Zexin>1 (0%)</Zexin>
@@ -2283,38 +2290,38 @@
 <Lost_Heights>7 (1%)</Lost_Heights>
 <Classic_Lost_With_Water>7 (1%)</Classic_Lost_With_Water>
 <Oceanic_Vestige>7 (1%)</Oceanic_Vestige>
-<Too Close to the Sun>6 (1%)</Too Close to the Sun>
-<Red Matter>6 (1%)</Red Matter>
+<Too-Close-to-the-Sun>6 (1%)</Too-Close-to-the-Sun>
+<Red-Matter>6 (1%)</Red-Matter>
 <Classic_Zone_With_Water_2>6 (1%)</Classic_Zone_With_Water_2>
 <Classic_Zone_With_Water>6 (1%)</Classic_Zone_With_Water>
 <Savage_Stretch>6 (1%)</Savage_Stretch>
 <Lost_Island>6 (1%)</Lost_Island>
 <Crevisseum_2>5 (0%)</Crevisseum_2>
-<Orbital Battle>5 (0%)</Orbital Battle>
-<Twilight Zone>5 (0%)</Twilight Zone>
+<Orbital-Battle>5 (0%)</Orbital-Battle>
+<Twilight-Zone>5 (0%)</Twilight-Zone>
 <Ruined_City_Small_2>5 (0%)</Ruined_City_Small_2>
 <Default_2>5 (0%)</Default_2>
 <Deep_City>4 (0%)</Deep_City>
 <Cerro_Baul>4 (0%)</Cerro_Baul>
 <Crevisseum>4 (0%)</Crevisseum>
 <Ruined_City>4 (0%)</Ruined_City>
-<Black Rift>4 (0%)</Black Rift>
+<Black-Rift>4 (0%)</Black-Rift>
 <Shrine_Depths>4 (0%)</Shrine_Depths>
 <Hiroshima>3 (0%)</Hiroshima>
 <The_Hive>3 (0%)</The_Hive>
 <Power_Play>3 (0%)</Power_Play>
 <Divine_Tumor>3 (0%)</Divine_Tumor>
 <Zone>2 (0%)</Zone>
-<Demented Hellhole>2 (0%)</Demented Hellhole>
+<Demented-Hellhole>2 (0%)</Demented-Hellhole>
 <Ruined_City_Small_3>2 (0%)</Ruined_City_Small_3>
 <Frozen_Solid>2 (0%)</Frozen_Solid>
 <Ice_Sculptures>2 (0%)</Ice_Sculptures>
 <Rotten_Eden_2>2 (0%)</Rotten_Eden_2>
-<Deep City 2>2 (0%)</Deep City 2>
+<Deep-City-2>2 (0%)</Deep-City-2>
 <The_Infestation>2 (0%)</The_Infestation>
 <Test_Field_2>2 (0%)</Test_Field_2>
 <Blackouts_Dream>1 (0%)</Blackouts_Dream>
 <old_city>1 (0%)</old_city>
 <Flooded_Crater>1 (0%)</Flooded_Crater>
 </Maps>
-</CC Data Log>
+</CC-Data-Log>
